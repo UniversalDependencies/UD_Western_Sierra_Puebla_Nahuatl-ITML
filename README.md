@@ -39,10 +39,10 @@ We would like to thank the following for giving permission to use their sentence
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.10
+Data available since: UD v2.11
 License: CC BY-SA 4.0
 Includes text: yes
-Genre: spoken fiction grammar-examples non-fiction
+Genre: spoken fiction grammar-examples nonfiction
 Lemmas: manual native
 UPOS: manual native
 XPOS: not available
