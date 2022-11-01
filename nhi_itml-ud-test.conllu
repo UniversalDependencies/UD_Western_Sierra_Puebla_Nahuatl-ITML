@@ -2264,7 +2264,7 @@
 
 # sent_id = pollito-amo-niman-otlacat:9
 # text = Satepan ocahsito se axno uan octlahtlanih: -¿Xamo touatzin tonnomaman?
-# text[spa] =
+# text[spa] = Entonces encontró un burro y le preguntó: -¿Es usted mi mamá?
 # labels = partial
 1	Satepan	satepan	ADV	_	_	3	advmod	_	_
 2-3	ocahsito	_	_	_	_	_	_	_	_
@@ -2286,7 +2286,7 @@
 
 # sent_id = pollito-amo-niman-otlacat:10
 # text = In axno onauat: -Neh amo, porque neh amo intempileh.
-# text[spa] =
+# text[spa] = El burro contestó: -Yo no, porque yo no tengo pico.
 # labels = partial
 1	In	in	DET	_	_	2	det	_	_
 2	axno	axno	NOUN	_	_	4	nsubj	_	_
@@ -2321,7 +2321,7 @@
 
 # sent_id = pollito-amo-niman-otlacat:12
 # text = Satepan ocahsito se cuapoueh uan octlahtlanih: -¿Xamo touatzin tonnomaman?
-# text[spa] =
+# text[spa] = Entonces encontró una vaca y le preguntó: -¿Es usted mi mamá?
 # labels = partial
 1	Satepan	satepan	ADV	_	_	3	advmod	_	_
 2-3	ocahsito	_	_	_	_	_	_	_	_
@@ -2343,7 +2343,7 @@
 
 # sent_id = pollito-amo-niman-otlacat:13
 # text = In cuapoueh onauat: -Neh amo, porque neh amo intempileh.
-# text[spa] =
+# text[spa] = La vaca contestó: -Yo no, porque yo no tengo pico.
 # labels = partial
 1	In	in	DET	_	_	2	det	_	_
 2	cuapoueh	cuapoueh	NOUN	_	_	4	nsubj	_	_
@@ -2378,7 +2378,7 @@
 
 # sent_id = pollito-amo-niman-otlacat:15
 # text = In pollito simi yotlaocoxca uan oyah ictemohtiu nimaman.
-# text[spa] =
+# text[spa] = El pollito se entristeció mucho y fue a buscar a su mamá.
 # labels = partial
 1	In	in	DET	_	_	2	det	_	_
 2	pollito	pollo	NOUN	_	Foreign=Yes|Number=Sing	6	nsubj	_	_
@@ -2414,7 +2414,7 @@
 
 # sent_id = pollito-amo-niman-otlacat:17
 # text = Ompa ocatca se caxtil uan octlahtlanih: -¿Xamo touatzin tonnomaman?
-# text[spa] =
+# text[spa] = Ahí estaba una gallina y le preguntó: - ¿Es usted mi mamá?
 # labels = partial
 1	Ompa	ompa	ADV	_	_	3	advmod	_	_
 2-3	ocatca	_	_	_	_	_	_	_	_
@@ -2436,7 +2436,7 @@
 
 # sent_id = pollito-amo-niman-otlacat:18
 # text = In caxtil onauat: -¡Quemah! ¡Nosintitzin itnoconeu! Ixuiqui nican
-# text[spa] =
+# text[spa] = La gallina contestó: -¡Sí! ¡Mi amor tu eres mi bebé! Ven aquí
 # labels = partial
 1	In	in	DET	_	_	2	det	_	_
 2	caxtil	caxtil	NOUN	_	Number=Sing	4	nsubj	_	_
@@ -2457,7 +2457,7 @@
 
 # sent_id = pollito-amo-niman-otlacat:19
 # text = ixquimahsiqui mocniuan.
-# text[spa] =
+# text[spa] = alcanza a tus hermanos.
 # labels = partial
 1	ixquimahsiqui	ahsi	VERB	_	Movement=Ven|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran	0	root	_	_
 2	mocniuan	icni	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=2	1	obj	_	SpaceAfter=No
@@ -2465,7 +2465,7 @@
 
 # sent_id = pollito-amo-niman-otlacat:20
 # text = Uan ihcuacon in pollito simi opac nic ocahsic nimaman.
-# text[spa] =
+# text[spa] = Y entonces el pollito se puso muy feliz porque econtró a su mamá.
 # labels = partial
 1	Uan	uan	CCONJ	_	_	7	cc	_	_
 2	ihcuacon	ihcuacon	ADV	_	_	7	advmod	_	_
@@ -2537,24 +2537,24 @@
 # text = Cualli omonacasmahman uan opeu ictlatlahtlania: — ¿Tlenoh tlacual itquinmaca mopiluan?
 # text[spa] = Se paró bien las orejas y empezó a preguntar:-¿Qué comida les das a tus hijos?
 # labels = partial
-1	Cualli	cualli	ADV	_	_	3	advmod	3:advmod	_
+1	Cualli	cualli	ADV	_	_	3	advmod	_	_
 2-3	omonacasmahman	_	_	_	_	_	_	_	_
-2	o	o	AUX	_	_	3	aux	3:aux	_
-3	monacasmahman	mahmana	VERB	nacas#mahmana	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Past	0	root	0:root	_
-3.1	nacas	nacas	NOUN	_	_	_	_	3:obj	_
-4	uan	uan	CCONJ	_	_	7	cc	7:cc	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	monacasmahman	mahmana	VERB	nacas#mahmana	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Past	0	root	_	_
+3.1	nacas	nacas	NOUN	_	_	_	_	_	_
+4	uan	uan	CCONJ	_	_	7	cc	_	_
 5-6	opeu	_	_	_	_	_	_	_	_
-5	o	o	AUX	_	_	7	aux	7:aux	_
-6	peu	peua	AUX	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	7	aux	7:aux	_
-7	ictlatlahtlania	tlatlahtlania	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	3:conj	SpaceAfter=No
-8	:	:	PUNCT	_	_	13	punct	13:punct	_
-9	—	—	PUNCT	_	_	13	punct	13:punct	_
-10	¿	¿	PUNCT	_	_	13	punct	13:punct	SpaceAfter=No
-11	Tlenoh	tlenoh	DET	_	_	12	det	12:det	_
-12	tlacual	tlacual	NOUN	_	Number=Sing	13	obj	13:obj	_
-13	itquinmaca	maca	VERB	_	Number[dat]=Plur|Number[subj]=Sing|Person[dat]=3|Person[subj]=2|Subcat=Tran	7	parataxis	7:parataxis	_
-14	mopiluan	pilli	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=2	13	iobj	13:iobj	SpaceAfter=No
-15	?	?	PUNCT	_	_	13	punct	13:punct	_
+5	o	o	AUX	_	_	7	aux	_	_
+6	peu	peua	AUX	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	7	aux	_	_
+7	ictlatlahtlania	tlatlahtlania	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	3	conj	_	SpaceAfter=No
+8	:	:	PUNCT	_	_	13	punct	_	_
+9	—	—	PUNCT	_	_	13	punct	_	_
+10	¿	¿	PUNCT	_	_	13	punct	_	SpaceAfter=No
+11	Tlenoh	tlenoh	DET	_	_	12	det	_	_
+12	tlacual	tlacual	NOUN	_	Number=Sing	13	obj	_	_
+13	itquinmaca	maca	VERB	_	Number[dat]=Plur|Number[subj]=Sing|Person[dat]=3|Person[subj]=2|Subcat=Tran	7	parataxis	_	_
+14	mopiluan	pilli	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=2	13	iobj	_	SpaceAfter=No
+15	?	?	PUNCT	_	_	13	punct	_	_
 
 # sent_id = in-tochtli-tecaquini:5
 # text = In cacalotl onauat: — Neh inquintlamaca ica tlaol.
@@ -2605,23 +2605,23 @@
 # text = Cualli omonacasmahman uan octlatlahtlanih: — ¿Tlenoh tlacual itquimaca mopiluan?
 # text[spa] = Se paró bien las orejas y empezó a preguntar:-¿Qué comida les das a tus hijos?
 # labels = partial
-1	Cualli	cualli	ADV	_	_	3	advmod	3:advmod	_
+1	Cualli	cualli	ADV	_	_	3	advmod	_	_
 2-3	omonacasmahman	_	_	_	_	_	_	_	_
-2	o	o	AUX	_	_	3	aux	3:aux	_
-3	monacasmahman	mahmana	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Past	0	root	0:root	_
-3.1	nacas	nacas	NOUN	_	_	_	_	3:obj	_
-4	uan	uan	CCONJ	_	_	6	cc	6:cc	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	monacasmahman	mahmana	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Past	0	root	_	_
+3.1	nacas	nacas	NOUN	_	_	_	_	_	_
+4	uan	uan	CCONJ	_	_	6	cc	_	_
 5-6	octlatlahtlanih	_	_	_	_	_	_	_	SpaceAfter=No
-5	o	o	AUX	_	_	6	aux	6:aux	_
-6	ctlatlahtlanih	tlatlahtlania	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	3	conj	3:conj	_
-7	:	:	PUNCT	_	_	12	punct	12:punct	_
-8	—	—	PUNCT	_	_	12	punct	12:punct	_
-9	¿	¿	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
-10	Tlenoh	tlenoh	DET	_	_	11	det	11:det	_
-11	tlacual	tlacual	NOUN	_	Number=Sing	12	obj	12:obj	_
-12	itquimaca	maca	VERB	_	Number[dat]=Sing|Number[subj]=Sing|Person[dat]=3|Person[subj]=2|Subcat=Tran	6	parataxis	6:parataxis	_
-13	mopiluan	pilli	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=2	12	iobj	12:iobj	SpaceAfter=No
-14	?	?	PUNCT	_	_	12	punct	12:punct	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	ctlatlahtlanih	tlatlahtlania	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	3	conj	_	_
+7	:	:	PUNCT	_	_	12	punct	_	_
+8	—	—	PUNCT	_	_	12	punct	_	_
+9	¿	¿	PUNCT	_	_	12	punct	_	SpaceAfter=No
+10	Tlenoh	tlenoh	DET	_	_	11	det	_	_
+11	tlacual	tlacual	NOUN	_	Number=Sing	12	obj	_	_
+12	itquimaca	maca	VERB	_	Number[dat]=Sing|Number[subj]=Sing|Person[dat]=3|Person[subj]=2|Subcat=Tran	6	parataxis	_	_
+13	mopiluan	pilli	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=2	12	iobj	_	SpaceAfter=No
+14	?	?	PUNCT	_	_	12	punct	_	_
 
 # sent_id = in-tochtli-tecaquini:9
 # text = In mapachin onauat: — Neh inquintlamaca ica elotl.
@@ -2675,23 +2675,23 @@
 # text = Cualli omonacasmahman uan octlatlahtlanih: — ¿Tlenoh tlacual itquinmaca mopiluan?
 # text[spa] = Se paró bien las orejas y empezó a preguntar:-¿Qué comida les das a tus hijos?
 # labels = partial
-1	Cualli	cualli	ADV	_	_	3	advmod	3:advmod	_
+1	Cualli	cualli	ADV	_	_	3	advmod	_	_
 2-3	omonacasmahman	_	_	_	_	_	_	_	_
-2	o	o	AUX	_	_	3	aux	3:aux	_
-3	monacasmahman	mahmana	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Past	0	root	0:root	_
-3.1	nacas	nacas	NOUN	_	_	_	_	3:obj	_
-4	uan	uan	CCONJ	_	_	6	cc	6:cc	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	monacasmahman	mahmana	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Past	0	root	_	_
+3.1	nacas	nacas	NOUN	_	_	_	_	_	_
+4	uan	uan	CCONJ	_	_	6	cc	_	_
 5-6	octlatlahtlanih	_	_	_	_	_	_	_	SpaceAfter=No
-5	o	o	AUX	_	_	6	aux	6:aux	_
-6	ctlatlahtlanih	tlatlahtlania	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	3	conj	3:conj	_
-7	:	:	PUNCT	_	_	12	punct	12:punct	_
-8	—	—	PUNCT	_	_	12	punct	12:punct	_
-9	¿	¿	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
-10	Tlenoh	tlenoh	DET	_	_	11	det	11:det	_
-11	tlacual	tlacual	NOUN	_	Number=Sing	12	obj	12:obj	_
-12	itquinmaca	maca	VERB	_	Number[dat]=Plur|Number[subj]=Sing|Person[dat]=3|Person[subj]=2|Subcat=Tran	6	parataxis	6:parataxis	_
-13	mopiluan	pilli	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=2	12	iobj	12:iobj	SpaceAfter=No
-14	?	?	PUNCT	_	_	12	punct	12:punct	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	ctlatlahtlanih	tlatlahtlania	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	3	conj	_	_
+7	:	:	PUNCT	_	_	12	punct	_	_
+8	—	—	PUNCT	_	_	12	punct	_	_
+9	¿	¿	PUNCT	_	_	12	punct	_	SpaceAfter=No
+10	Tlenoh	tlenoh	DET	_	_	11	det	_	_
+11	tlacual	tlacual	NOUN	_	Number=Sing	12	obj	_	_
+12	itquinmaca	maca	VERB	_	Number[dat]=Plur|Number[subj]=Sing|Person[dat]=3|Person[subj]=2|Subcat=Tran	6	parataxis	_	_
+13	mopiluan	pilli	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=2	12	iobj	_	SpaceAfter=No
+14	?	?	PUNCT	_	_	12	punct	_	_
 
 # sent_id = in-tochtli-tecaquini:13
 # text = In caxtil onauat: — Neh inquintlamaca ica tlalcuitlaxcolten.
@@ -2742,44 +2742,44 @@
 # text = Cualli omonacasmahman uan octlatlahtlanih: — ¿Tlen tlacual itquinmaca mopiluan?
 # text[spa] = Se paró bien las orejas y empezó a preguntar:-¿Qué comida les das a tus hijos?
 # labels = partial
-1	Cualli	cualli	ADV	_	_	3	advmod	3:advmod	_
+1	Cualli	cualli	ADV	_	_	3	advmod	_	_
 2-3	omonacasmahman	_	_	_	_	_	_	_	_
-2	o	o	AUX	_	_	3	aux	3:aux	_
-3	monacasmahman	mahmana	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Past	0	root	0:root	_
-3.1	nacas	nacas	NOUN	_	_	_	_	3:obj	_
-4	uan	uan	CCONJ	_	_	6	cc	6:cc	_
+2	o	o	AUX	_	_	3	aux	_	_
+3	monacasmahman	mahmana	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Past	0	root	_	_
+3.1	nacas	nacas	NOUN	_	_	_	_	_	_
+4	uan	uan	CCONJ	_	_	6	cc	_	_
 5-6	octlatlahtlanih	_	_	_	_	_	_	_	SpaceAfter=No
-5	o	o	AUX	_	_	6	aux	6:aux	_
-6	ctlatlahtlanih	tlatlahtlania	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	3	conj	3:conj	_
-7	:	:	PUNCT	_	_	12	punct	12:punct	_
-8	—	—	PUNCT	_	_	12	punct	12:punct	_
-9	¿	¿	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No
-10	Tlen	tlenoh	DET	_	_	11	det	11:det	_
-11	tlacual	tlacual	NOUN	_	Number=Sing	12	obj	12:obj	_
-12	itquinmaca	maca	VERB	_	Number[dat]=Plur|Number[subj]=Sing|Person[dat]=3|Person[subj]=2|Subcat=Tran	6	parataxis	6:parataxis	_
-13	mopiluan	pilli	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=2	12	iobj	12:iobj	SpaceAfter=No
-14	?	?	PUNCT	_	_	12	punct	12:punct	_
+5	o	o	AUX	_	_	6	aux	_	_
+6	ctlatlahtlanih	tlatlahtlania	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	3	conj	_	_
+7	:	:	PUNCT	_	_	12	punct	_	_
+8	—	—	PUNCT	_	_	12	punct	_	_
+9	¿	¿	PUNCT	_	_	12	punct	_	SpaceAfter=No
+10	Tlen	tlenoh	DET	_	_	11	det	_	_
+11	tlacual	tlacual	NOUN	_	Number=Sing	12	obj	_	_
+12	itquinmaca	maca	VERB	_	Number[dat]=Plur|Number[subj]=Sing|Person[dat]=3|Person[subj]=2|Subcat=Tran	6	parataxis	_	_
+13	mopiluan	pilli	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=2	12	iobj	_	SpaceAfter=No
+14	?	?	PUNCT	_	_	12	punct	_	_
 
 # sent_id = in-tochtli-tecaquini:17
 # text = In itzcuincoyotl onauat: — Neh inquintlamaca ica tochmeh tlen simi nacasmahamatoqueh.
 # text[spa] = El coyote respondió: - Yo les doy de comer conejos que paran mucho las orejas.
 # labels = partial
-1	In	in	DET	_	_	2	det	2:det	_
-2	itzcuincoyotl	itzcuincoyotl	NOUN	_	Case=Abs|Number=Sing	4	nsubj	4:nsubj	_
+1	In	in	DET	_	_	2	det	_	_
+2	itzcuincoyotl	itzcuincoyotl	NOUN	_	Case=Abs|Number=Sing	4	nsubj	_	_
 3-4	onauat	_	_	_	_	_	_	_	SpaceAfter=No
-3	o	o	AUX	_	_	4	aux	4:aux	_
-4	nauat	nauat	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	0:root	_
-5	:	:	PUNCT	_	_	8	punct	8:punct	_
-6	—	—	PUNCT	_	_	8	punct	8:punct	_
-7	Neh	nehuatl	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	_
-8	inquintlamaca	tlamaca	VERB	_	Animacy[obj]=Nhum|Number[dat]=Plur|Number[subj]=Sing|Person[dat]=3|Person[obj]=3|Person[subj]=1|Subcat=Tran	4	parataxis	4:parataxis	_
-9	ica	ca	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obl	8:obl	_
-10	tochmeh	tochtli	NOUN	_	Number=Plur	9	nmod	9:nmod	_
-11	tlen	tlenoh	PRON	_	_	13	nsubj	13:nsubj	_
-12	simi	simi	ADV	_	_	13	advmod	13:advmod	_
-13	nacasmahamatoqueh	mahmana	VERB	_	Aspect=Prog|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres	10	acl	10:acl	SpaceAfter=No
-13.1	nacas	nacas	NOUN	_	_	_	_	13:obj	_
-14	.	.	PUNCT	_	_	4	punct	4:punct	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	nauat	nauat	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	_	_
+5	:	:	PUNCT	_	_	8	punct	_	_
+6	—	—	PUNCT	_	_	8	punct	_	_
+7	Neh	nehuatl	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	_	_
+8	inquintlamaca	tlamaca	VERB	_	Animacy[obj]=Nhum|Number[dat]=Plur|Number[subj]=Sing|Person[dat]=3|Person[obj]=3|Person[subj]=1|Subcat=Tran	4	parataxis	_	_
+9	ica	ca	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	8	obl	_	_
+10	tochmeh	tochtli	NOUN	_	Number=Plur	9	nmod	_	_
+11	tlen	tlenoh	PRON	_	_	13	nsubj	_	_
+12	simi	simi	ADV	_	_	13	advmod	_	_
+13	nacasmahamatoqueh	mahmana	VERB	_	Aspect=Prog|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres	10	acl	_	SpaceAfter=No
+13.1	nacas	nacas	NOUN	_	_	_	_	_	_
+14	.	.	PUNCT	_	_	4	punct	_	_
 
 # sent_id = in-tochtli-tecaquini:18
 # text = In tochtli onauat: — ¡Queutoc!
@@ -2800,27 +2800,27 @@
 # text = Uan ihsiuca omonacaspichtecac uan oquihtoh: — ¡Ahh!, tos tochmeh nacasmahmantoqueh.
 # text[spa] = Y rápido se bajó las orejas y dijo: - Ah! entonces los conejos que paran sus orejas.
 # labels = partial
-1	Uan	uan	CCONJ	_	_	4	cc	4:cc	_
-2	ihsiuca	ihsiuca	ADV	_	_	4	advmod	4:advmod	_
+1	Uan	uan	CCONJ	_	_	4	cc	_	_
+2	ihsiuca	ihsiuca	ADV	_	_	4	advmod	_	_
 3-4	omonacaspichtecac	_	_	_	_	_	_	_	_
-3	o	o	AUX	_	_	4	aux	4:aux	_
-4	monacaspichtecac	nacaspichteca	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Past	0	root	0:root	_
-4.1	nacas	nacas	NOUN	_	_	_	_	4:obj	_
-5	uan	uan	CCONJ	_	_	7	cc	7:cc	_
+3	o	o	AUX	_	_	4	aux	_	_
+4	monacaspichtecac	nacaspichteca	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Past	0	root	_	_
+4.1	nacas	nacas	NOUN	_	_	_	_	_	_
+5	uan	uan	CCONJ	_	_	7	cc	_	_
 6-7	oquihtoh	_	_	_	_	_	_	_	SpaceAfter=No
-6	o	o	AUX	_	_	7	aux	7:aux	_
-7	quihtoh	ihtoa	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	4	conj	4:conj	_
-8	:	:	PUNCT	_	_	11	punct	11:punct	_
-9	—	—	PUNCT	_	_	11	punct	11:punct	_
-10	¡	¡	PUNCT	_	_	11	punct	11:punct	SpaceAfter=No
-11	Ahh	ah	INTJ	_	_	7	parataxis	7:parataxis	SpaceAfter=No
-12	!	!	PUNCT	_	_	11	punct	11:punct	SpaceAfter=No
-13	,	,	PUNCT	_	_	15	punct	15:punct	_
-14	tos	entonces	ADV	_	Foreign=Yes	15	advmod	15:advmod	_
-15	tochmeh	tochtli	NOUN	_	Number=Plur	11	parataxis	11:parataxis	_
-16	nacasmahmantoqueh	mahmana	VERB	_	Aspect=Prog|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres	15	acl	15:acl	SpaceAfter=No
-16.1	nacas	nacas	NOUN	_	_	_	_	16:obj	_
-17	.	.	PUNCT	_	_	16	punct	16:punct	_
+6	o	o	AUX	_	_	7	aux	_	_
+7	quihtoh	ihtoa	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	4	conj	_	_
+8	:	:	PUNCT	_	_	11	punct	_	_
+9	—	—	PUNCT	_	_	11	punct	_	_
+10	¡	¡	PUNCT	_	_	11	punct	_	SpaceAfter=No
+11	Ahh	ah	INTJ	_	_	7	parataxis	_	SpaceAfter=No
+12	!	!	PUNCT	_	_	11	punct	_	SpaceAfter=No
+13	,	,	PUNCT	_	_	15	punct	_	_
+14	tos	entonces	ADV	_	Foreign=Yes	15	advmod	_	_
+15	tochmeh	tochtli	NOUN	_	Number=Plur	11	parataxis	_	_
+16	nacasmahmantoqueh	mahmana	VERB	_	Aspect=Prog|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Pres	15	acl	_	SpaceAfter=No
+16.1	nacas	nacas	NOUN	_	_	_	_	_	_
+17	.	.	PUNCT	_	_	16	punct	_	_
 
 # sent_id = ixquihuacan-trabajo:1
 # text = Cuando ahsi las siete en punto tsilini noalarma wan neh nimewa.
@@ -4072,7 +4072,7 @@
 
 # sent_id = omitlan_1:27
 # text = Huan neh niquihlnamiqui oniquilhuaya nopapa, “ Pues xonhuiqui, nomotzonpahpachoz nomoztonsobaroz. ”
-# text[spa] = 
+# text[spa] = Y yo recuerdo le decía a mi papá, " Pues venga, le sobo. " 
 # labels = partial
 1	Huan	huan	CCONJ	_	_	3	cc	_	_
 2	neh	nehhuatl	PRON	_	Number=Sing|Person=1|PronType=Prs	3	nsubj	_	_
@@ -4849,7 +4849,7 @@
 
 # sent_id = omitlan_2:11
 # text = Entonces yeh ocnamacaya ce ichcatl o ome o cana hasta yeyi
-# text[spa] = 
+# text[spa] = Entonces ella vendía un borrego o dos o quizás hasta tres 
 # labels = partial
 1	Entonces	entonces	ADV	_	Foreign=Yes	4	advmod	_	_
 2	yeh	yehuatl	PRON	_	Number=Sing|Person=3|PronType=Prs	4	nsubj	_	_
@@ -10057,15 +10057,15 @@
 # text[gloss] = 
 # text[spa] = Si me compraría un perro guardaría la casa.
 # labels = - 53:4
-1	Tla	tla	SCONJ	_	_	3	mark	3:mark	Orig=Tla
+1	Tla	tla	SCONJ	_	_	3	mark	_	Orig=Tla
 2-3	onmokowiskia	_	_	_	_	_	_	_	_
-2	o	o	AUX	_	_	3	aux	3:aux	Orig=onmokowiskia
-3	nmokowiskia	kowa	VERB	_	_	0	root	0:root	_
-4	se	se	DET	_	_	5	det	5:det	Orig=se
-5	notzkwin	itzkwintli	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obj	3:obj	Orig=notzkwin
-6	okaltlachixtoskia	tlachiya	VERB	_	_	3	parataxis	3:parataxis	Orig=okaltlachixtoskia|SpaceAfter=No
-6.1	kal	kali	NOUN	_	_	_	_	6:obj	Incorporation
-7	.	.	PUNCT	_	_	3	punct	3:punct	Orig=.
+2	o	o	AUX	_	_	3	aux	_	Orig=onmokowiskia
+3	nmokowiskia	kowa	VERB	_	_	0	root	_	_
+4	se	se	DET	_	_	5	det	_	Orig=se
+5	notzkwin	itzkwintli	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=1	3	obj	_	Orig=notzkwin
+6	okaltlachixtoskia	tlachiya	VERB	_	_	3	parataxis	_	Orig=okaltlachixtoskia|SpaceAfter=No
+6.1	kal	kali	NOUN	_	_	_	_	_	Incorporation
+7	.	.	PUNCT	_	_	3	punct	_	Orig=.
 
 # sent_id = tenango:54:2
 # text = Tla in teteko de nochan okyektlalani in tubo onpakiskia.
@@ -10202,79 +10202,79 @@
 # text[gloss] = 
 # text[spa] = Que me gustaría que esté el pueblo, me gustaría que el pueblo se haga municipio, me gustaría que el camino estuviera pavimentado y que las personas tengan un buen trabajo en el pueblo y que todos los niños estudiaran y también me gustaría que no les diera pena hablar nahuatl.
 # labels = - 56:2 needs-fixing
-1	Tlen	tlen	SCONJ	_	_	0	root	0:root	Orig=Tlen
-2	nej	nejuatl	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	4:nsubj	Orig=nej
+1	Tlen	tlen	SCONJ	_	_	0	root	_	Orig=Tlen
+2	nej	nejuatl	PRON	_	Number=Sing|Person=1|PronType=Prs	4	nsubj	_	Orig=nej
 3-4	ontlasojtlaskia	_	_	_	_	_	_	_	Orig=ontlasojtlaskiamai
-3	o	o	AUX	_	_	4	aux	4:aux	_
+3	o	o	AUX	_	_	4	aux	_	_
 4	ntlasojtlaskia	tlasojtla	VERB	_	_	1	acl:relcl	1:acl:relcl	_
 5-6	mai	_	_	_	_	_	_	_	_
-5	ma	ma	AUX	_	_	6	aux	6:aux	_
-6	i	katki	VERB	_	_	4	ccomp	4:ccomp	_
-7	itich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Number[subj]=Plur|Person[psor]=3|Person[subj]=1	6	obl	6:obl	Orig=itich
-8	nin	nin	DET	_	_	9	det	9:det	Orig=nin
-9	altipetl	altipetl	NOUN	_	Case=Abs|Number=Sing	7	nmod	7:nmod	Orig=altipetl,|SpaceAfter=No
-10	,	,	PUNCT	_	_	12	punct	12:punct	Orig=,|Gloss=,|Morf=,
+5	ma	ma	AUX	_	_	6	aux	_	_
+6	i	katki	VERB	_	_	4	ccomp	_	_
+7	itich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Number[subj]=Plur|Person[psor]=3|Person[subj]=1	6	obl	_	Orig=itich
+8	nin	nin	DET	_	_	9	det	_	Orig=nin
+9	altipetl	altipetl	NOUN	_	Case=Abs|Number=Sing	7	nmod	_	Orig=altipetl,|SpaceAfter=No
+10	,	,	PUNCT	_	_	12	punct	_	Orig=,|Gloss=,|Morf=,
 11-12	ontlasojtlaskia	_	_	_	_	_	_	_	_
-11	o	o	AUX	_	_	12	aux	12:aux	Orig=ontlasojtlaskia
-12	ntlasojtlaskia	tlasojtla	VERB	_	_	4	conj	4:conj	_
-13	de	de	ADP	_	Foreign=Yes	18	mark	18:mark	Orig=de
-14	ke	ke	SCONJ	_	_	18	mark	18:mark	Orig=ke
+11	o	o	AUX	_	_	12	aux	_	Orig=ontlasojtlaskia
+12	ntlasojtlaskia	tlasojtla	VERB	_	_	4	conj	_	_
+13	de	de	ADP	_	Foreign=Yes	18	mark	_	Orig=de
+14	ke	ke	SCONJ	_	_	18	mark	_	Orig=ke
 15-16	naltipetl	_	_	_	_	_	_	_	_
-15	n	n	DET	_	_	16	det	16:det	Orig=naltipetl
-16	altipetl	altipetl	NOUN	_	Case=Abs|Number=Sing	18	nsubj	18:nsubj	_
+15	n	n	DET	_	_	16	det	_	Orig=naltipetl
+16	altipetl	altipetl	NOUN	_	Case=Abs|Number=Sing	18	nsubj	_	_
 17-18	mamokwipa	_	_	_	_	_	_	_	_
-17	ma	ma	AUX	_	_	18	aux	18:aux	Orig=mamokwipa
-18	mokwipa	mokwipa	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran	12	ccomp	12:ccomp	_
-19	municipio	municipio	NOUN	_	_	18	ccomp	18:ccomp	Orig=municipio,|SpaceAfter=No
-20	,	,	PUNCT	_	_	22	punct	22:punct	Orig=,|Gloss=,|Morf=,
+17	ma	ma	AUX	_	_	18	aux	_	Orig=mamokwipa
+18	mokwipa	mokwipa	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=3|Reflex=Yes|Subcat=Tran	12	ccomp	_	_
+19	municipio	municipio	NOUN	_	_	18	ccomp	_	Orig=municipio,|SpaceAfter=No
+20	,	,	PUNCT	_	_	22	punct	_	Orig=,|Gloss=,|Morf=,
 21-22	ontlasojtlaskia	_	_	_	_	_	_	_	_
-21	o	o	AUX	_	_	22	aux	22:aux	Orig=ontlasojtlaskia
-22	ntlasojtlaskia	tlasojtla	VERB	_	_	12	conj	12:conj	_
-23	de	de	ADP	_	Foreign=Yes	29	mark	29:mark	Orig=de
-24	ke	ke	SCONJ	_	_	29	mark	29:mark	Orig=ke
+21	o	o	AUX	_	_	22	aux	_	Orig=ontlasojtlaskia
+22	ntlasojtlaskia	tlasojtla	VERB	_	_	12	conj	_	_
+23	de	de	ADP	_	Foreign=Yes	29	mark	_	Orig=de
+24	ke	ke	SCONJ	_	_	29	mark	_	Orig=ke
 25-26	nojtli	_	_	_	_	_	_	_	_
-25	n	in	DET	_	_	26	det	26:det	Orig=nojtli
-26	ojtli	ojtli	NOUN	_	Case=Abs|Number=Sing	29	nsubj	29:nsubj	_
+25	n	in	DET	_	_	26	det	_	Orig=nojtli
+26	ojtli	ojtli	NOUN	_	Case=Abs|Number=Sing	29	nsubj	_	_
 27-28	mai	_	_	_	_	_	_	_	_
-27	ma	ma	AUX	_	_	29	aux	29:aux	Orig=mai
-28	i	katki	AUX	_	_	29	cop	29:cop	_
-29	pavimentado	pavimentado	ADJ	_	_	22	ccomp	22:ccomp	Orig=pavimentado
-30	wan	wan	CCONJ	_	_	33	cc	33:cc	Orig=wan
-31	tokniwan	ikni	NOUN	_	Number=Plur|Number[psor]=Plur|Person[psor]=1	33	nsubj	33:nsubj	Orig=tokniwan
+27	ma	ma	AUX	_	_	29	aux	_	Orig=mai
+28	i	katki	AUX	_	_	29	cop	_	_
+29	pavimentado	pavimentado	ADJ	_	_	22	ccomp	_	Orig=pavimentado
+30	wan	wan	CCONJ	_	_	33	cc	_	Orig=wan
+31	tokniwan	ikni	NOUN	_	Number=Plur|Number[psor]=Plur|Person[psor]=1	33	nsubj	_	Orig=tokniwan
 32-33	makpiyakan	_	_	_	_	_	_	_	_
-32	ma	ma	AUX	_	_	33	aux	33:aux	Orig=makpiyakan
-33	kpiyakan	piya	VERB	_	_	29	conj	29:conj	_
-34	se	se	DET	_	_	36	det	36:det	Orig=se
-35	kwalli	kwalli	ADJ	_	Number=Sing	36	amod	36:amod	Orig=kwalli
-36	tikitl	tikitl	NOUN	_	Case=Abs|Number=Sing	33	obj	33:obj	Orig=tikitl
-37	itich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Number[subj]=Plur|Person[psor]=3|Person[subj]=1	33	obl	33:obl	Orig=itich
-38	nin	nin	DET	_	_	39	det	39:det	Orig=nin
-39	altipetl	altipetl	NOUN	_	Case=Abs|Number=Sing	37	nmod	37:nmod	Orig=altipetl,|SpaceAfter=No
-40	,	,	PUNCT	_	_	48	punct	48:punct	Orig=,|Gloss=,|Morf=,
-41	wan	wan	CCONJ	_	_	48	cc	48:cc	Orig=wan
-42	de	de	ADP	_	Foreign=Yes	48	mark	48:mark	Orig=de
-43	ke	ke	SCONJ	_	_	48	mark	48:mark	Orig=ke
+32	ma	ma	AUX	_	_	33	aux	_	Orig=makpiyakan
+33	kpiyakan	piya	VERB	_	_	29	conj	_	_
+34	se	se	DET	_	_	36	det	_	Orig=se
+35	kwalli	kwalli	ADJ	_	Number=Sing	36	amod	_	Orig=kwalli
+36	tikitl	tikitl	NOUN	_	Case=Abs|Number=Sing	33	obj	_	Orig=tikitl
+37	itich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Number[subj]=Plur|Person[psor]=3|Person[subj]=1	33	obl	_	Orig=itich
+38	nin	nin	DET	_	_	39	det	_	Orig=nin
+39	altipetl	altipetl	NOUN	_	Case=Abs|Number=Sing	37	nmod	_	Orig=altipetl,|SpaceAfter=No
+40	,	,	PUNCT	_	_	48	punct	_	Orig=,|Gloss=,|Morf=,
+41	wan	wan	CCONJ	_	_	48	cc	_	Orig=wan
+42	de	de	ADP	_	Foreign=Yes	48	mark	_	Orig=de
+43	ke	ke	SCONJ	_	_	48	mark	_	Orig=ke
 44-45	nochin	_	_	_	_	_	_	_	_
-44	nochi	nochi	DET	_	_	46	det	46:det	Orig=nochin
-45	n	in	DET	_	_	46	det	46:det	_
-46	kokonej	konetl	NOUN	_	_	48	nsubj	48:nsubj	Orig=kokonej
+44	nochi	nochi	DET	_	_	46	det	_	Orig=nochin
+45	n	in	DET	_	_	46	det	_	_
+46	kokonej	konetl	NOUN	_	_	48	nsubj	_	Orig=kokonej
 47-48	maestudiarokan	_	_	_	_	_	_	_	_
-47	ma	ma	AUX	_	_	48	aux	48:aux	Orig=maestudiarokan
-48	estudiarokan	estudiaroa	VERB	_	_	29	conj	29:conj	_
-49	wan	wan	CCONJ	_	_	52	cc	52:cc	Orig=wan
-50	noyiwki	noyiwki	ADV	_	_	52	advmod	52:advmod	Orig=noyiwki
+47	ma	ma	AUX	_	_	48	aux	_	Orig=maestudiarokan
+48	estudiarokan	estudiaroa	VERB	_	_	29	conj	_	_
+49	wan	wan	CCONJ	_	_	52	cc	_	Orig=wan
+50	noyiwki	noyiwki	ADV	_	_	52	advmod	_	Orig=noyiwki
 51-52	ontlasojtlaskia	_	_	_	_	_	_	_	_
-51	o	o	AUX	_	_	52	aux	52:aux	Orig=ontlasojtlaskia
-52	ntlasojtlaskia	tlasojtla	VERB	_	_	12	conj	12:conj	_
-53	de	de	ADP	_	Foreign=Yes	57	mark	57:mark	Orig=de
-54	ke	ke	SCONJ	_	_	57	mark	57:mark	Orig=ke
-55	amo	amo	ADV	_	Polarity=Neg	57	advmod	57:advmod	Orig=amo
+51	o	o	AUX	_	_	52	aux	_	Orig=ontlasojtlaskia
+52	ntlasojtlaskia	tlasojtla	VERB	_	_	12	conj	_	_
+53	de	de	ADP	_	Foreign=Yes	57	mark	_	Orig=de
+54	ke	ke	SCONJ	_	_	57	mark	_	Orig=ke
+55	amo	amo	ADV	_	Polarity=Neg	57	advmod	_	Orig=amo
 56-57	mapinawakan	_	_	_	_	_	_	_	_
-56	ma	ma	AUX	_	_	57	aux	57:aux	Orig=mapinawakantlajtoskej
-57	pinawakan	pinawa	VERB	_	_	52	ccomp	52:ccomp	_
-58	tlajtoskej	tlajtoa	VERB	_	Animacy[obj]=Nhum|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	57	advcl	57:advcl	_
-59	nawatl	nawatl	NOUN	_	Case=Abs|Number=Sing	58	obl	58:obl	Orig=nawatl|SpaceAfter=No
-60	.	.	PUNCT	_	_	58	punct	58:punct	Orig=.
+56	ma	ma	AUX	_	_	57	aux	_	Orig=mapinawakantlajtoskej
+57	pinawakan	pinawa	VERB	_	_	52	ccomp	_	_
+58	tlajtoskej	tlajtoa	VERB	_	Animacy[obj]=Nhum|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	57	advcl	_	_
+59	nawatl	nawatl	NOUN	_	Case=Abs|Number=Sing	58	obl	_	Orig=nawatl|SpaceAfter=No
+60	.	.	PUNCT	_	_	58	punct	_	Orig=.
 
 # sent_id = tenango:59:1
 # text = Inkakiltia nitzonikon se xochikoskatl.
