@@ -48,7 +48,7 @@ UPOS: manual native
 XPOS: not available
 Features: manual native
 Relations: manual native
-Contributors:Pugh, Robert & Huerta Mendez, Marivel & Sasaki, Mitsuya & Tyers, Francis
+Contributors: Pugh, Robert; Huerta Mendez, Marivel; Sasaki, Mitsuya; Tyers, Francis
 Contributing: elsewhere
 Contact: pughrob@iu.edu
 ===============================================================================
