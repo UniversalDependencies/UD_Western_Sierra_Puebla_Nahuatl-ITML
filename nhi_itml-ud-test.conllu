@@ -10284,7 +10284,7 @@
 # text[spa] = Le pongo una cadena de flores en su cabeza.
 # labels = - 59:1 kuakiltia
 1	Inkakiltia	akiltia	VERB	_	Typo=Yes	0	root	_	Orig=Inkakiltia|Morf=1sg.sj.-3sg.obj.-vestir-benef.
-2-3	nitzonikon	_	_	_	_	_	_	_	SpaceAfter=No
+2-3	nitzonikon	_	_	_	_	_	_	_	_
 2	n	n	DET	_	_	3	det	_	Morf=su-cabeza|Orig=nitzonikon
 3	itzonikon	itzontikon	NOUN	_	_	1	obj	_	_
 4	se	se	DET	_	_	5	det	_	Orig=se|Morf=una
@@ -11568,7 +11568,7 @@
 # text[spa] = No nos estamos dando cuenta que Dios nos lo está dando.
 # labels = - 119:1
 1	Amo	amo	ADV	_	Polarity=Neg	2	advmod	_	Orig=Amo
-2	itmatij	mati	VERB	_	_	0	root	_	Orig=itmatijtla|SpaceAfter=No
+2	itmatij	mati	VERB	_	_	0	root	_	Orig=itmatijtla
 3	tla	tla	SCONJ	_	_	5	mark	_	_
 4	Dios	dios	PROPN	_	_	5	nsubj	_	Orig=Dios
 5	techmaktijtoc	maka	VERB	_	Aspect=Prog|Number[obj]=Plur|Number[subj]=Sing|Person[obj]=1|Person[subj]=3|Subcat=Tran|Tense=Pres	2	ccomp	_	Orig=techmaktijtoc|SpaceAfter=No
