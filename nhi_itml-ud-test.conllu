@@ -2449,7 +2449,7 @@
 8	Quemah	quemah	PROPN	_	_	4	parataxis	_	SpaceAfter=No
 9	!	!	PUNCT	_	_	8	punct	_	_
 10	¡	¡	PUNCT	_	_	12	punct	_	SpaceAfter=No
-11	Nosintitzin	nosintitzin	NOUN	_	Deriv=Dim|Number[psor]=Sing|Person[psor]=1	12	vocative	_	_
+11	Nosintitzin	nosintitzin	NOUN	_	Dim=Yes|Number[psor]=Sing|Person[psor]=1	12	vocative	_	_
 12	itnoconeu	conetl	NOUN	_	Number[psor]=Sing|Number[subj]=Sing|Person[psor]=1|Person[subj]=2	8	parataxis	_	SpaceAfter=No
 13	!	!	PUNCT	_	_	12	punct	_	_
 14	Ixuiqui	ixuiqui	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Subcat=Intr	12	parataxis	_	_
@@ -2879,7 +2879,7 @@
 3	de	de	ADP	_	Foreign=Yes	7	mark	_	_
 4	que	que	SCONJ	_	_	3	fixed	_	_
 5-7	yonikakixteh	_	_	_	_	_	_	_	SpaceAfter=No
-5	y	ye	ADV	_	_	7	advmod	_	_
+5	y	ya	ADV	_	_	7	advmod	_	_
 6	o	o	AUX	_	_	7	aux	_	_
 7	nikakixteh	akixtia	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past	15	advcl	_	_
 8	,	,	PUNCT	_	_	7	punct	_	_
@@ -3751,7 +3751,7 @@
 13	pero	pero	CCONJ	_	_	17	cc	_	_
 14	ce	ce	PRON	_	_	17	nsubj	_	_
 15-17	yopopoleuh	_	_	_	_	_	_	_	SpaceAfter=No
-15	y	ye	ADV	_	_	17	advmod	_	_
+15	y	ya	ADV	_	_	17	advmod	_	_
 16	o	o	AUX	_	_	17	aux	_	_
 17	popoleuh	popoliwi	VERB	_	Aspect=Perf|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	12	conj	_	_
 18	.	.	PUNCT	_	_	2	punct	_	_
@@ -3766,7 +3766,7 @@
 4	tlen	tleno	PRON	_	_	5	nsubj	_	_
 5	tiochoque	ocho	NUM	_	Number[subj]=Plur|Person[subj]=1	3	acl	_	_
 6	zan	zan	ADV	_	_	8	advmod	_	_
-7	ye	ye	ADV	_	_	6	fixed	_	_
+7	ye	ya	ADV	_	_	6	fixed	_	_
 8	neh	nehhuatl	PRON	_	Number=Sing|Person=1|PronType=Prs	10	nsubj	_	_
 9-10	oniquestudiaro	_	_	_	_	_	_	_	_
 9	o	o	AUX	_	_	10	aux	_	_
@@ -3864,7 +3864,7 @@
 5	nimatiya	mati	VERB	_	Aspect=Imp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past	0	root	_	_
 6	tleno	tleno	PRON	_	_	7	obj	_	_
 7	nicchihuaz	chihua	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Fut	5	ccomp	_	_
-8	mox	mox	PART	_	_	9	discourse	_	_
+8	mox	mox	ADV	_	_	9	advmod	_	_
 9	nimocahuaz	cahua	VERB	_	Number[subj]=Sing|Person[subj]=1|Reflex=Yes|Subcat=Tran|Tense=Fut	7	parataxis	_	_
 10	o	o	CCONJ	_	_	11	cc	_	_
 11	niyaz	yohui	VERB	_	Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Fut	9	conj	_	_
@@ -4248,7 +4248,7 @@
 9	huan	huan	CCONJ	_	_	13	cc	_	_
 10	ompa	ompa	ADV	_	_	13	advmod	_	_
 11-13	yonimomachtito	_	_	_	_	_	_	_	_
-11	y	ye	ADV	_	_	13	advmod	_	_
+11	y	ya	ADV	_	_	13	advmod	_	_
 12	o	o	AUX	_	_	13	aux	_	_
 13	nimomachtito	machtia	VERB	_	_	7	conj	_	_
 14	ome	ome	NUM	_	_	15	nummod	_	_
@@ -4260,7 +4260,7 @@
 20	huan	huan	CCONJ	_	_	24	cc	_	_
 21	ompa	ompa	ADV	_	_	24	advmod	_	_
 22-24	yonechmacaque	_	_	_	_	_	_	_	_
-22	y	ye	ADV	_	_	24	advmod	_	_
+22	y	ya	ADV	_	_	24	advmod	_	_
 23	o	o	AUX	_	_	24	aux	_	_
 24	nechmacaque	maca	VERB	_	Aspect=Perf|Number[dat]=Sing|Number[subj]=Plur|Person[dat]=1|Person[subj]=3|Subcat=Tran|Tense=Past	13	conj	_	_
 25	nochten	nochi	ADV	_	_	26	advmod	_	_
@@ -4614,7 +4614,7 @@
 # labels = partial
 1	Bueno	bueno	INTJ	_	Foreign=Yes	5	discourse	_	_
 2	za	za	ADV	_	_	5	advmod	_	_
-3	ye	ye	ADV	_	_	2	fixed	_	_
+3	ye	ya	ADV	_	_	2	fixed	_	_
 4-5	oniniquiya	_	_	_	_	_	_	_	_
 4	o	o	AUX	_	_	5	aux	_	_
 5	niniquiya	niqui	VERB	_	Aspect=Imp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past	0	root	_	_
@@ -4634,7 +4634,7 @@
 19	pero	pero	CCONJ	_	Foreign=Yes	23	cc	_	_
 20	axan	axan	ADV	_	_	23	advmod	_	_
 21	za	za	ADV	_	_	23	advmod	_	_
-22	ye	ye	ADV	_	_	21	fixed	_	_
+22	ye	ya	ADV	_	_	21	fixed	_	_
 23	nin	nin	PRON	_	_	14	conj	_	SpaceAfter=No
 24	.	.	PUNCT	_	_	5	punct	_	_
 
@@ -5137,7 +5137,7 @@
 # labels = partial
 1	Bueno	bueno	ADV	_	Foreign=Yes	6	discourse	_	_
 2	za	za	ADV	_	_	4	advmod	_	_
-3	ye	ye	ADV	_	_	2	fixed	_	_
+3	ye	ya	ADV	_	_	2	fixed	_	_
 4	nin	nin	PRON	_	_	7	obj	_	_
 5-6	oniniquiya	_	_	_	_	_	_	_	_
 5	o	o	AUX	_	_	6	aux	_	_
@@ -5176,7 +5176,7 @@
 9	nen	nen	INTJ	_	_	13	discourse	_	SpaceAfter=No
 10	,	,	PUNCT	_	_	13	punct	_	_
 11-13	yotiehkokeh	_	_	_	_	_	_	_	_
-11	y	ye	ADV	_	_	13	advmod	_	_
+11	y	ya	ADV	_	_	13	advmod	_	_
 12	o	o	AUX	_	_	13	aux	_	_
 13	tiehkokeh	ehko	VERB	_	Aspect=Perf|Number[subj]=Plur|Person[subj]=1|Subcat=Intr|Tense=Past|VerbForm=Fin	0	root	_	_
 14	de	de	ADP	_	Foreign=Yes	15	case	_	_
@@ -5680,7 +5680,7 @@
 2	ahorita	ahorita	ADV	_	Foreign=Yes	6	advmod	_	SpaceAfter=No
 3	,	,	PUNCT	_	_	2	punct	_	_
 4-6	yotiehkokeh	_	_	_	_	_	_	_	_
-4	y	ye	ADV	_	_	6	advmod	_	_
+4	y	ya	ADV	_	_	6	advmod	_	_
 5	o	o	AUX	_	_	6	aux	_	_
 6	tiehkokeh	ehko	VERB	_	_	0	root	_	_
 7	n	n	DET	_	_	8	det	_	_
@@ -10196,8 +10196,8 @@
 14	.	.	PUNCT	_	_	11	punct	_	Orig=.
 
 # sent_id = tenango:56:2
-# text = Tlen nej ontlasojtlaskia mai itich nin altipetl, ontlasojtlaskia de ke naltipetl mamokwipa municipio, ontlasojtlaskia de ke nojtli mai pavimentado wan tokniwan makpiyakan se kwalli tikitl itich nin altipetl, wan de ke nochin kokonej maestudiarokan wan noyiwki ontlasojtlaskia de ke amo mapinawakantlajtoskej nawatl.
-# text[orig] = Tlen nej ontlasojtlaskia mai itich nin altipetl, ontlasojtlaskia de ke naltipetl mamokwipa municipio, ontlasojtlaskia de ke nojtli mai pavimentado wan tokniwan makpiyakan se kwalli tikitl itich nin altipetl, wan de ke nochin kokonej maestudiarokan wan noyiwki ontlasojtlaskia de ke amo mapinawakantlajtoskej nawatl.
+# text = Tlen nej ontlasojtlaskia mai itich nin altipetl, ontlasojtlaskia de ke naltipetl mamokwipa municipio, ontlasojtlaskia de ke nojtli mai pavimentado wan tokniwan makpiyakan se kwalli tikitl itich nin altipetl, wan de ke nochin kokonej maestudiarokan wan noyiwki ontlasojtlaskia de ke amo mapinawakan tlajtoskej nawatl.
+# text[orig] = Tlen nej ontlasojtlaskia mai itich nin altipetl, ontlasojtlaskia de ke naltipetl mamokwipa municipio, ontlasojtlaskia de ke nojtli mai pavimentado wan tokniwan makpiyakan se kwalli tikitl itich nin altipetl, wan de ke nochin kokonej maestudiarokan wan noyiwki ontlasojtlaskia de ke amo mapinawakan tlajtoskej nawatl.
 # text[morf] = -
 # text[gloss] = 
 # text[spa] = Que me gustaría que esté el pueblo, me gustaría que el pueblo se haga municipio, me gustaría que el camino estuviera pavimentado y que las personas tengan un buen trabajo en el pueblo y que todos los niños estudiaran y también me gustaría que no les diera pena hablar nahuatl.
@@ -13233,7 +13233,7 @@
 # labels = partial
 1	Ihcuac	ihcuac	SCONJ	_	_	4	mark	_	_
 2-4	yotlamitlacuah	_	_	_	_	_	_	_	_
-2	y	ye	ADV	_	_	4	advmod	_	_
+2	y	ya	ADV	_	_	4	advmod	_	_
 3	o	o	AUX	_	_	4	aux	_	_
 4	tlamitlacuah	tlamitlacua	VERB	_	_	7	advcl	_	_
 5-6	opeuh	_	_	_	_	_	_	_	_
@@ -13282,7 +13282,7 @@
 # labels = partial
 1	Huehca	huehca	ADV	_	_	4	advmod	_	_
 2-4	yoyaya	_	_	_	_	_	_	_	SpaceAfter=No
-2	y	ye	ADV	_	_	4	advmod	_	_
+2	y	ya	ADV	_	_	4	advmod	_	_
 3	o	o	AUX	_	_	4	aux	_	_
 4	yaya	yahui	VERB	_	_	0	root	_	_
 5	,	,	PUNCT	_	_	8	punct	_	_
@@ -13352,7 +13352,7 @@
 # labels = partial
 1	Icompa	icompa	ADV	_	_	4	advmod	_	_
 2-4	yoixihcataya	_	_	_	_	_	_	_	SpaceAfter=No
-2	y	ye	ADV	_	_	4	advmod	_	_
+2	y	ya	ADV	_	_	4	advmod	_	_
 3	o	o	AUX	_	_	4	aux	_	_
 4	ixihcataya	ixihcata	VERB	_	_	0	root	_	_
 5	,	,	PUNCT	_	_	9	punct	_	_
@@ -13688,7 +13688,7 @@
 9	tlaltitl	tlaltitl	NOUN	_	Case=Abs|Number=Sing	3	conj	_	_
 10	tlen	tlen	SCONJ	_	_	13	obj	_	_
 11-13	yoczazacaya	_	_	_	_	_	_	_	SpaceAfter=No
-11	y	ye	ADV	_	_	13	advmod	_	_
+11	y	ya	ADV	_	_	13	advmod	_	_
 12	o	o	AUX	_	_	13	aux	_	_
 13	czazacaya	zazaca	VERB	_	_	9	acl	_	_
 14	.	.	PUNCT	_	_	3	punct	_	_
@@ -13744,7 +13744,7 @@
 # orthography = traditional_h-c-u-z
 # labels = partial
 1-3	Yotlaocox	_	_	_	_	_	_	_	SpaceAfter=No
-1	Y	ye	ADV	_	_	3	advmod	_	_
+1	Y	ya	ADV	_	_	3	advmod	_	_
 2	o	o	AUX	_	_	3	aux	_	_
 3	tlaocox	tlaocoya	VERB	_	_	0	root	_	_
 4	,	,	PUNCT	_	_	7	punct	_	_
@@ -14572,7 +14572,7 @@
 13	!	!	PUNCT	_	_	12	punct	_	_
 14	milauac	milauac	ADV	_	_	17	advmod	_	_
 15-17	yonannechcualanihqueh	_	_	_	_	_	_	_	SpaceAfter=No
-15	y	ye	ADV	_	_	17	advmod	_	_
+15	y	ya	ADV	_	_	17	advmod	_	_
 16	o	o	AUX	_	_	17	aux	_	_
 17	nannechcualanihqueh	cualani	VERB	_	_	12	parataxis	_	_
 18	.	.	PUNCT	_	_	3	punct	_	_
@@ -14597,7 +14597,7 @@
 3	nic	nic	SCONJ	_	_	7	mark	_	_
 4	neh	nehuatl	PRON	_	Number=Sing|Person=1|PronType=Prs	7	nsubj	_	_
 5-7	yonnamechyolitih	_	_	_	_	_	_	_	_
-5	y	ye	ADV	_	_	7	advmod	_	_
+5	y	ya	ADV	_	_	7	advmod	_	_
 6	o	o	AUX	_	_	7	aux	_	_
 7	nnamechyolitih	yolitia	VERB	_	_	2	advcl	_	_
 8	uan	uan	CCONJ	_	_	10	cc	_	_
@@ -15663,7 +15663,7 @@
 # labels = partial
 1	Ijkuak	ijkuak	SCONJ	_	_	4	mark	_	_
 2-4	yoowak	_	_	_	_	_	_	_	_
-2	y	ye	ADV	_	_	4	advmod	_	_
+2	y	ya	ADV	_	_	4	advmod	_	_
 3	oo	o	AUX	_	_	4	aux	_	_
 4	wak	waki	VERB	_	_	5	advcl	_	_
 5	ik	tlalilia	VERB	_	Number[subj]=Plur|Person[subj]=3|Subcat=Tran|Tense=Pres|Typo=Yes	0	root	_	_
@@ -15703,7 +15703,7 @@
 1	Nikanka	nikanka	DET	_	_	2	det	_	_
 2	taller	taller	NOUN	_	Foreign=Yes|Number=Sing	5	nsubj	_	_
 3-5	yokintlankej	_	_	_	_	_	_	_	_
-3	y	ye	ADV	_	_	5	advmod	_	_
+3	y	ya	ADV	_	_	5	advmod	_	_
 4	o	o	AUX	_	_	5	aux	_	_
 5	kintlankej	tlani	VERB	_	_	0	root	_	_
 6	mikej	miak	DET	_	_	7	det	_	_
