@@ -12941,7 +12941,7 @@
 
 # sent_id = ticpinitos-uan-ticpintzin:43
 # text = Uitz incoyotl uan mitztlamacas.
-# text[spa] =
+# text[spa] = Viene la persona fina y te da de comer.
 # labels = partial
 1	Uitz	uitzi	VERB	_	_	0	root	0:root	_
 2-3	incoyotl	_	_	_	_	_	_	_	_
@@ -13347,7 +13347,7 @@
 
 # sent_id = tiquitini:8
 # text = Icompa yoixihcataya, nic cimi ocniquia atliz.
-# text[spa] =
+# text[spa] = 
 # location = San Miguel Tenango
 # orthography = traditional_h-c-u-z
 # labels = partial
@@ -13367,7 +13367,7 @@
 
 # sent_id = tiquitini:9
 # text = Nicancah cacalotl ocmotlahtlanih:
-# text[spa] =
+# text[spa] = Este pájaro se preguntó:
 # location = San Miguel Tenango
 # orthography = traditional_h-c-u-z
 # labels = partial
@@ -13380,7 +13380,7 @@
 
 # sent_id = tiquitini:10
 # text = “¿Quenih inchihuaz para natliz?”
-# text[spa] =
+# text[spa] = "Cómo hago para tomar agua?"
 # location = San Miguel Tenango
 # orthography = traditional_h-c-u-z
 # labels = partial
@@ -13395,7 +13395,7 @@
 
 # sent_id = tiquitini:11
 # text = Zan tipitzin oquihtoh:
-# text[spa] =
+# text[spa] = Poquito después dijo:
 # location = San Miguel Tenango
 # orthography = traditional_h-c-u-z
 # labels = partial
@@ -13408,7 +13408,7 @@
 
 # sent_id = tiquitini:12
 # text = — ¡Ah! ¡Ya inmati tlenoh inchihuaz!
-# text[spa] =
+# text[spa] = ¡Ah! ¡Ya sé qué voy a hacer!
 # location = San Miguel Tenango
 # orthography = traditional_h-c-u-z
 # labels = partial
@@ -13425,7 +13425,7 @@
 
 # sent_id = tiquitini:13
 # text = Zatepan oyah canic oquimahcic in chacalimeh, huan ica nitempil oquian ce tlaltitl hueyihtzin.
-# text[spa] =
+# text[spa] = Luefo fue donda encontró los gusanos, y con su pico levantó una piedra de tierra grande.
 # location = San Miguel Tenango
 # orthography = traditional_h-c-u-z
 # labels = partial
@@ -13516,7 +13516,7 @@
 
 # sent_id = tiquitini:17
 # text = Ihcuacon ocachi ya tona chicahuac, huan yeh ohcon ocmotiquitaya tiquitiz.
-# text[spa] =
+# text[spa] = Entonces hace calor más fuerte, y así trabajaba.
 # location = San Miguel Tenango
 # orthography = traditional_h-c-u-z
 # labels = partial
@@ -13763,7 +13763,7 @@
 
 # sent_id = tiquitini:28
 # text = “¡Quemah inhuili!, ¡inhuili quemah!, ¡quemah inhuili!...”
-# text[spa] =
+# text[spa] = "¡Sí puedo!, ¡Puedo sí!, ¡sí puedo!..."
 # location = San Miguel Tenango
 # orthography = traditional_h-c-u-z
 # labels = partial
@@ -14013,7 +14013,7 @@
 
 # sent_id = tlahcahcochini:6
 # text = Sayeh in lechon uan itzcuintli omocauqueh .
-# text[spa] =
+# text[spa] = Sólo el puerco y el perro se quedaron .
 # labels = partial
 1-2	Sayeh	_	_	_	_	_	_	_	_
 1	Sa	san	ADV	_	_	4	advmod	4:advmod	_
@@ -14163,7 +14163,7 @@
 
 # sent_id = tlahcahcochini:13
 # text = Satepan in pajaro, nic oquitac amo tlachiya in ocuilin, noyiuqui omosotlau uan saoyah .
-# text[spa] =
+# text[spa] = Luego el pájaro, como vio que el animal no abre sus ojos, también se aburrió y se fue .
 # labels = partial
 1	Satepan	satepan	ADV	_	_	15	advmod	15:advmod	_
 2	in	in	DET	_	_	3	det	3:det	_
@@ -14191,7 +14191,7 @@
 
 # sent_id = tlahcahcochini:14
 # text = Ihcuacon in lechon uan nocsiquin omoahsiqueh .
-# text[spa] =
+# text[spa] = Entonces el puerco y los otros se encontraron.
 # labels = partial
 1	Ihcuacon	ihcuacon	ADV	_	_	8	advmod	8:advmod	_
 2	in	in	DET	_	_	3	det	3:det	_
@@ -14220,10 +14220,10 @@
 8	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 # sent_id = tlahcahcochini:16
-# text = — ¡ Lechon !
-# text[spa] =
+# text = —¡ Lechon !
+# text[spa] = -¡ Puerco !
 # labels = partial
-1	—	—	PUNCT	_	_	3	punct	3:punct	_
+1	—	—	PUNCT	_	_	3	punct	3:punct	SpaceAfter=No
 2	¡	¡	PUNCT	_	_	3	punct	3:punct	_
 3	Lechon	lechon	NOUN	_	Number=Sing	0	root	0:root	_
 4	!	!	PUNCT	_	_	3	punct	3:punct	_
@@ -15006,7 +15006,7 @@
 
 # sent_id = tlaol-cuachicauac:40
 # text = Satepan itquitas.
-# text[spa] =
+# text[spa] = Luego vas a ver.
 # labels = partial
 1	Satepan	satepan	ADV	_	_	2	advmod	2:advmod	_
 2	itquitas	ita	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Fut	0	root	0:root	SpaceAfter=No
@@ -15014,7 +15014,7 @@
 
 # sent_id = tlaol-cuachicauac:41
 # text = In temaman octlahtlan: -- ¿Tlenoh itconchiuas iuan nopiluan?
-# text[spa] =
+# text[spa] = La mamá le preguntó: -- ¿Qué vas a hacer con mis hijos?
 # labels = partial
 1	In	in	DET	_	_	2	det	2:det	_
 2	temaman	mama	NOUN	_	_	4	nsubj	4:nsubj	_
@@ -15033,7 +15033,7 @@
 
 # sent_id = tlaol-cuachicauac:42
 # text = Dios ocnanquilih: -- ¡Amo ixtlaocoya! Itlah cualli inchiuas ica mopiluan.
-# text[spa] =
+# text[spa] = Dios le contestó: -- ¡No te pongas triste! Algo bueno haré con tus hijos.
 # labels = partial
 1	Dios	dios	PROPN	_	_	3	nsubj	3:nsubj	_
 2-3	ocnanquilih	_	_	_	_	_	_	_	SpaceAfter=No
@@ -15699,7 +15699,7 @@
 
 # sent_id = tleka-kimixmatij-in-masewalten-de-otomi:27
 # text = Nikanka taller yokintlankej mikej diplomas, porke nintikiw simi kualtzin wan kixmatij kemej kuali tikitl, wan ikpia mik ipatiw.
-# text[spa] =
+# text[spa] = Este taller ganó muchas diplomas, porque su trabajo es muy bonito y conocen como es el buen trabajo, y tiene mucho valor.
 # labels = partial
 1	Nikanka	nikanka	DET	_	_	2	det	2:det	_
 2	taller	taller	NOUN	_	Foreign=Yes|Number=Sing	5	nsubj	5:nsubj	_
