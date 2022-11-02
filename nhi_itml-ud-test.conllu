@@ -3740,7 +3740,7 @@
 3	yeyen	yeyi	NUM	_	Number=Plur	4	nummod	4:nummod	NormalizedForm=yeyen|NormalizedLemma=yeyi
 4	nocnihuan	icni	NOUN	_	Number=Plur|Number[psor]=Sing|Person[psor]=1	2	obj	2:obj	NormalizedForm=nokniwan|NormalizedLemma=ikni
 5	tlen	tleno	PRON	_	_	7	nsubj	7:nsubj	NormalizedForm=tlen|NormalizedLemma=tleno
-6	ye	yehuatl	AUX	_	_	7	cop	7:cop	NormalizedForm=ye|NormalizedLemma=yewatl
+6	ye	yehuatl	PRON	_	_	7	cop	7:cop	NormalizedForm=ye|NormalizedLemma=yewatl
 7	cihuame	cihuatl	NOUN	_	Number=Plur	4	acl	4:acl	NormalizedForm=siwame|NormalizedLemma=siwatl
 8	huan	huan	CCONJ	_	_	12	cc	12:cc	NormalizedForm=wan|NormalizedLemma=wan
 9	tlacame	tlacatl	NOUN	_	Number=Plur	12	nsubj	12:nsubj	NormalizedForm=tlakame|NormalizedLemma=tlakatl
