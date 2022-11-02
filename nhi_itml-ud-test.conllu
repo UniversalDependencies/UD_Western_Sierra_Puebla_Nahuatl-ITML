@@ -2449,7 +2449,7 @@
 8	Quemah	quemah	PROPN	_	_	4	parataxis	4:parataxis	SpaceAfter=No|NormalizedForm=kemah|NormalizedLemma=kemah
 9	!	!	PUNCT	_	_	8	punct	8:punct	NormalizedForm=!|NormalizedLemma=!
 10	¡	¡	PUNCT	_	_	12	punct	12:punct	SpaceAfter=No|NormalizedForm=¡|NormalizedLemma=¡
-11	Nosintitzin	nosintitzin	NOUN	_	Dim=Yes|Number[psor]=Sing|Person[psor]=1	12	vocative	12:vocative	NormalizedForm=nosintitsin|NormalizedLemma=nosintitsin
+11	Nosintitzin	nosintitzin	NOUN	_	Degree=Dim|Number[psor]=Sing|Person[psor]=1	12	vocative	12:vocative	NormalizedForm=nosintitsin|NormalizedLemma=nosintitsin
 12	itnoconeu	conetl	NOUN	_	Number[psor]=Sing|Number[subj]=Sing|Person[psor]=1|Person[subj]=2	8	parataxis	8:parataxis	SpaceAfter=No|NormalizedForm=itnoconeu|NormalizedLemma=konetl
 13	!	!	PUNCT	_	_	12	punct	12:punct	NormalizedForm=!|NormalizedLemma=!
 14	Ixuiqui	ixuiqui	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Subcat=Intr	12	parataxis	12:parataxis	NormalizedForm=ixwiki|NormalizedLemma=ixwiki
@@ -4513,7 +4513,7 @@
 17	o	o	AUX	_	_	18	aux	18:aux	NormalizedForm=o|NormalizedLemma=o
 18	tichualicaque	hualica	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past	15	conj	15:conj	NormalizedForm=tikwalikake|NormalizedLemma=walika
 19	nin	nin	DET	_	_	20	det	20:det	NormalizedForm=nin|NormalizedLemma=nin
-20	itzcuintzintli	itzcuintli	NOUN	_	Case=Abs|Dim=Yes|Number=Sing	18	obj	18:obj	SpaceAfter=No|NormalizedForm=itskwintsintli|NormalizedLemma=itskwintli
+20	itzcuintzintli	itzcuintli	NOUN	_	Case=Abs|Degree=Dim|Number=Sing	18	obj	18:obj	SpaceAfter=No|NormalizedForm=itskwintsintli|NormalizedLemma=itskwintli
 21	.	.	PUNCT	_	_	5	punct	5:punct	NormalizedForm=.|NormalizedLemma=.
 
 # sent_id = omitlan_1:52
@@ -8597,7 +8597,7 @@
 11	o	o	AUX	_	_	12	aux	12:aux	Orig=ō|Gloss=PST|Morf=o|NormalizedForm=o|NormalizedLemma=o
 12	kisewihkeh	sewia	VERB	_	Aspect=Perf|Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	6	conj	6:conj	Orig=kisēwihkeh|Gloss=3S-3SG.O-make.rest-PRF.PL.S|NormalizedForm=kisewihkeh|NormalizedLemma=sewia
 13	n	in	DET	_	_	14	det	14:det	Orig=n|Gloss=DEF|Morf=n|NormalizedForm=n|NormalizedLemma=in
-14	totahtsih	tahtsih	NOUN	_	Dim=Yes|Number=Sing|Number[psor]=Plur|Person[psor]=1	12	obj	12:obj	Orig=totahtsih|Gloss=1PL.P-father-HON|Morf=to-tah-tsı̄n|NormalizedForm=totahtsih|NormalizedLemma=tahtsih
+14	totahtsih	tahtsih	NOUN	_	Degree=Dim|Number=Sing|Number[psor]=Plur|Person[psor]=1	12	obj	12:obj	Orig=totahtsih|Gloss=1PL.P-father-HON|Morf=to-tah-tsı̄n|NormalizedForm=totahtsih|NormalizedLemma=tahtsih
 15	San	san	PROPN	_	_	14	appos	14:appos	Orig=San|Gloss=Saint|Morf=SAN|NormalizedForm=san|NormalizedLemma=san
 16	Juan	juan	PROPN	_	_	15	flat	15:flat	Gloss=John|Morf=JUAN|Orig=jwân|SpaceAfter=No|NormalizedForm=hwan|NormalizedLemma=hwan
 17	.	.	PUNCT	_	_	1	punct	1:punct	Orig=.|Gloss=.|Morf=.|NormalizedForm=.|NormalizedLemma=.
@@ -9770,7 +9770,7 @@
 # text[spa] = Paso rápido por tu casa.
 # labels = - 47:5
 1	Inpanotiwitzis	panoa	VERB	_	_	0	root	0:root	Orig=Inpanotiwitzis|Gloss=Paso.rápido|NormalizedForm=inpanotiwitsis|NormalizedLemma=panoa
-2	mochantzin	chantli	NOUN	_	Dim=Yes|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	obl	1:obl	Gloss=tu.casa|Orig=mochantzin|SpaceAfter=No|NormalizedForm=mochantsin|NormalizedLemma=chantli
+2	mochantzin	chantli	NOUN	_	Degree=Dim|Number=Sing|Number[psor]=Sing|Person[psor]=2	1	obl	1:obl	Gloss=tu.casa|Orig=mochantzin|SpaceAfter=No|NormalizedForm=mochantsin|NormalizedLemma=chantli
 3	.	.	PUNCT	_	_	1	punct	1:punct	Orig=.|Gloss=.|NormalizedForm=.|NormalizedLemma=.
 
 # sent_id = tenango:48:1
@@ -13219,7 +13219,7 @@
 10	o	o	AUX	_	_	11	aux	11:aux	NormalizedForm=o|NormalizedLemma=o
 11	quintemoto	temoa	VERB	_	Movement=And|Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	0	root	0:root	NormalizedForm=kintemoto|NormalizedLemma=temoa
 12	ciqui	ciqui	DET	_	_	13	det	13:det	NormalizedForm=siki|NormalizedLemma=siki
-13	chacaltzitzin	chacalin	NOUN	_	Dim=Yes|Number=Plur	11	obj	11:obj	SpaceAfter=No|NormalizedForm=chakaltsitsin|NormalizedLemma=chakalin
+13	chacaltzitzin	chacalin	NOUN	_	Degree=Dim|Number=Plur	11	obj	11:obj	SpaceAfter=No|NormalizedForm=chakaltsitsin|NormalizedLemma=chakalin
 14	,	,	PUNCT	_	_	17	punct	17:punct	NormalizedForm=,|NormalizedLemma=,
 15	para	para	SCONJ	_	_	17	mark	17:mark	NormalizedForm=para|NormalizedLemma=para
 16	ica	ca	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	17	obl	17:obl	NormalizedForm=ika|NormalizedLemma=ka
@@ -15569,9 +15569,9 @@
 13	tzokotzitzin	tzotzokotzin	ADV	_	_	12	advmod	12:advmod	NormalizedForm=tsokotsitsin|NormalizedLemma=tsotsokotsin
 14	wan	wan	CCONJ	_	_	15	cc	15:cc	NormalizedForm=wan|NormalizedLemma=wan
 15	kinchiwaj	chiwa	VERB	_	Number[obj]=Plur|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	12	conj	12:conj	NormalizedForm=kinchiwah|NormalizedLemma=chiwa
-16	xochitzitzin	xochitl	NOUN	_	Dim=Yes|Number=Plur	15	obj	15:obj	SpaceAfter=No|NormalizedForm=xochitsitsin|NormalizedLemma=xochitl
+16	xochitzitzin	xochitl	NOUN	_	Degree=Dim|Number=Plur	15	obj	15:obj	SpaceAfter=No|NormalizedForm=xochitsitsin|NormalizedLemma=xochitl
 17	,	,	PUNCT	_	_	18	punct	18:punct	NormalizedForm=,|NormalizedLemma=,
-18	xiwitzitzin	xiwitl	NOUN	_	Dim=Yes|Number=Plur	16	conj	16:conj	NormalizedForm=xiwitsitsin|NormalizedLemma=xiwitl
+18	xiwitzitzin	xiwitl	NOUN	_	Degree=Dim|Number=Plur	16	conj	16:conj	NormalizedForm=xiwitsitsin|NormalizedLemma=xiwitl
 19	tlajkoyan	_	NOUN	_	_	18	dep	18:dep	NormalizedForm=tlahkoyan|NormalizedLemma=_
 20	tlaltitikten	tlaltitik	NOUN	_	_	18	dep	18:dep	SpaceAfter=No|NormalizedForm=tlaltitikten|NormalizedLemma=tlaltitik
 21	,	,	PUNCT	_	_	22	punct	22:punct	NormalizedForm=,|NormalizedLemma=,
