@@ -4103,7 +4103,8 @@
 5	quipactaya	pactia	VERB	_	Aspect=Imp|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	0	root	0:root	_
 6	huan	huan	CCONJ	_	_	7	cc	7:cc	_
 7	nomama	mama	NOUN	_	Number=Sing|Number[psor]=Sing|Person[psor]=1	5	conj	5:conj	_
-8	noyohqui	noyohqui	ADV	_	_	7	orphan	7:orphan	SpaceAfter=No
+8	noyohqui	noyohqui	ADV	_	_	7	orphan	8.1:nsubj	SpaceAfter=No
+8.1	quipactaya	pactia	VERB	_	_	_	_	5:conj	_
 9	.	.	PUNCT	_	_	5	punct	5:punct	_
 
 # sent_id = omitlan_1:29
@@ -5310,7 +5311,7 @@
 1	Igual	igual	ADV	_	_	7	advmod	7:advmod	_
 2	de	de	ADP	_	Foreign=Yes	4	case	4:case	_
 3	non	non	DET	_	_	4	det	4:det	_
-4	mardomos	mardomo	NOUN	_	Foreign=Yes|Number=Plur	7	orphan	7:orphan	_
+4	mardomos	mardomo	NOUN	_	Foreign=Yes|Number=Plur	7	parataxis	7:parataxis	_
 5	cada	cada	DET	_	Foreign=Yes	7	det	7:det	_
 6	quince	quince	NUM	_	_	7	nummod	7:nummod	_
 7	días	día	NOUN	_	Foreign=Yes|Number=Plur	0	root	0:root	_
@@ -16933,7 +16934,7 @@
 1	Kwakoyonka	kwakoyonka	PROPN	_	_	0	root	0:root	SpaceAfter=No
 2	,	,	PUNCT	_	_	4	punct	4:punct	_
 3	ik	ik	ADP	_	_	4	case	4:case	_
-4	nepa	nepa	ADV	_	_	1	orphan	1:orphan	_
+4	nepa	nepa	ADV	_	_	1	conj	1:conj	_
 5	Tipatlak	tipatlak	PROPN	_	_	4	appos	4:appos	SpaceAfter=No
 6	,	,	PUNCT	_	_	8	punct	8:punct	_
 7	ik	ik	ADP	_	_	8	case	8:case	_
