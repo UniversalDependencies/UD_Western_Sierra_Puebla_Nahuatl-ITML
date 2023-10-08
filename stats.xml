@@ -10,7 +10,7 @@
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
     <test><sentences>909</sentences><tokens>9225</tokens><words>10111</words><fused>816</fused></test>
   </size>
-  <lemmas unique="1614" /><!-- ., o, ,, in, n, amo, wan, ya, de, se, uan, tich, —, ompa, ? -->
+  <lemmas unique="1613" /><!-- ., o, ,, in, n, amo, wan, ya, de, se, uan, tich, —, ompa, ? -->
   <forms unique="2473" /><!-- ., o, ,, n, in, amo, wan, de, se, uan, ya, ompa, —, ?, neh -->
   <fusions unique="567" /><!-- oquihtoh, onauat, okatka, oyah, opeu, yen, ocatca, opew, nisihtzin, onipiyaya, oyahkeh, octlahtlanih, oniniquiya, owits, den -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
@@ -82,7 +82,7 @@
     <feat name="Tense" value="Fut" upos="AUX,VERB">144</feat><!-- niquihtoz, niyaz, tiyas, itmatis, niyas, pewis, Tikwikas, atliz, inchihuaz, inchiuas -->
     <feat name="Tense" value="Past" upos="AUX,VERB">448</feat><!-- quihtoh, nauat, katka, yah, catca, pew, nipiyaya, yahkeh, ctlahtlanih, niniquiya -->
     <feat name="Tense" value="Pres" upos="AUX,VERB">297</feat><!-- katki, pewi, yuweh, yuwi, kah, kateh, tikitok, ehko, kinchiwaj, wili -->
-    <feat name="Typo" value="Yes" upos="ADV,NOUN,VERB">13</feat><!-- in, Amo, Inkakiltia, Kanji, conhas, ik, iktlajmachiotiyaj, ittalpachosqueh, kinuij, monquis -->
+    <feat name="Typo" value="Yes" upos="ADV,NOUN,VERB">13</feat><!-- in, Amo, Kanji, cnamiqia, conhas, ik, ittalpachosqueh, ixtzitzqui, kinuij, monquis -->
     <feat name="VerbForm" value="Fin" upos="VERB">52</feat><!-- katki, ctlahtlanih, nauat, mocelebraroa, yah, catca, kilwiah, kitlaliah, pewis, Mopatlatiweh -->
     <feat name="Voice" value="Act" upos="VERB">2</feat><!-- tehco, yah -->
   </feats>
