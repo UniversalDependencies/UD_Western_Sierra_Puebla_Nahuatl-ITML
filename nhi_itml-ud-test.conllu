@@ -9685,7 +9685,7 @@
 3	moskaltihtaya	moskaltihtia	VERB	_	Aspect=Imp|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Past	0	root	0:root	NormalizedForm=moskaltihtaya|NormalizedLemma=moskaltihtiya
 4	,	,	PUNCT	_	_	6	punct	6:punct	SpaceAfter=No|NormalizedForm=,|NormalizedLemma=,
 5	wan	wan	CCONJ	_	_	6	cc	6:cc	NormalizedForm=wan|NormalizedLemma=wan
-6	omomikiltijtaya	momikiltijtia	VERB	_	_	3	conj	3:conj	Orig=omomikiltijtaya|NormalizedForm=omomikiltihtaya|NormalizedLemma=momikiltihtia
+6	omomikiltijtaya	momikiltijtia	VERB	_	Aspect=Imp|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Past	3	conj	3:conj	Orig=omomikiltijtaya|NormalizedForm=omomikiltihtaya|NormalizedLemma=momikiltihtia
 7-8	nitlaixmatilis	_	_	_	_	_	_	_	SpaceAfter=No
 7	n	in	DET	_	_	8	det	8:det	_
 8	itlaixmatilis	tlaixmatilis	NOUN	_	Number[psor]=Sing|Person[psor]=3	6	nsubj	6:nsubj	_
@@ -10179,13 +10179,13 @@
 5	cuali	cuali	ADJ	_	Number=Sing	0	root	0:root	Orig=cuali|NormalizedForm=kwali|NormalizedLemma=kwali
 6-7	oxontlaocoxtonih	_	_	_	_	_	_	_	SpaceAfter=No
 6	o	o	AUX	_	_	7	aux	7:aux	Orig=oxontlaocoxtonih,|NormalizedForm=o|NormalizedLemma=o
-7	xontlaocoxtonih	tlaocoya	VERB	_	_	5	csubj	5:csubj	NormalizedForm=xontlaokoxtonih|NormalizedLemma=tlaokoya
+7	xontlaocoxtonih	tlaocoya	VERB	_	Mood=Cnd|Number[subj]=Plur|Person[subj]=2|Polite=Form|Subcat=Tran	5	csubj	5:csubj	NormalizedForm=xontlaokoxtonih|NormalizedLemma=tlaokoya
 8	,	,	PUNCT	_	_	12	punct	12:punct	Orig=,|Gloss=,|Morf=,|NormalizedForm=,|NormalizedLemma=,
 9	uan	uan	CCONJ	_	_	12	cc	12:cc	Orig=uan|NormalizedForm=wan|NormalizedLemma=wan
 10-12	yoxconquihquixtanih	_	_	_	_	_	_	_	_
 10	ya	ya	ADV	_	_	12	advmod	12:advmod	Orig=yoxconquihquixtanih|NormalizedForm=ya|NormalizedLemma=ya
 11	o	o	AUX	_	_	12	aux	12:aux	NormalizedForm=o|NormalizedLemma=o
-12	xconquihquixtanih	quihquixtania	VERB	_	_	7	conj	7:conj	NormalizedForm=xkonkihkixtanih|NormalizedLemma=kihkixtania
+12	xconquihquixtanih	quihquixtania	VERB	_	Mood=Cnd|Number[subj]=Plur|Person[subj]=2|Polite=Form|Subcat=Tran	7	conj	7:conj	NormalizedForm=xkonkihkixtanih|NormalizedLemma=kihkixtania
 13	de	de	ADP	_	Foreign=Yes	14	case	14:case	Orig=de|NormalizedForm=de|NormalizedLemma=de
 14	namonauac	namonauac	NOUN	_	NounType=Relat|Number[psor]=Plur|Person[psor]=2	12	obl	12:obl	Orig=namonauac|NormalizedForm=namonawak|NormalizedLemma=namonawak
 15-16	naquin	_	_	_	_	_	_	_	_
@@ -10911,7 +10911,7 @@
 # labels = - 88:3
 1	Ompa	ompa	ADV	_	_	3	advmod	3:advmod	Orig=Ompa|NormalizedForm=ompa|NormalizedLemma=ompa
 2	amo	amo	ADV	_	Polarity=Neg	3	advmod	3:advmod	Orig=amo|NormalizedForm=amo|NormalizedLemma=amo
-3	tlawaktok	waki	VERB	_	_	0	root	0:root	Orig=tlawaktok,|SpaceAfter=No|NormalizedForm=tlawaktok|NormalizedLemma=waki
+3	tlawaktok	waki	VERB	_	Aspect=Prog|Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	0	root	0:root	Orig=tlawaktok,|SpaceAfter=No|NormalizedForm=tlawaktok|NormalizedLemma=waki
 4	,	,	PUNCT	_	_	7	punct	7:punct	Orig=,|Gloss=,|Morf=,|NormalizedForm=,|NormalizedLemma=,
 5	ompa	ompa	ADV	_	_	7	advmod	7:advmod	Orig=ompa|NormalizedForm=ompa|NormalizedLemma=ompa
 6	simi	simi	ADV	_	_	7	advmod	7:advmod	Orig=simi|NormalizedForm=simi|NormalizedLemma=simi
@@ -12022,7 +12022,7 @@
 6	waltlaixtemojtaya	waltlaixtemojtia	VERB	_	Aspect=Imp|Movement=Ven|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	0	root	0:root	NormalizedForm=waltlaixtemohtaya|NormalizedLemma=waltlaixtemohtia
 7-8	owaltlajtlachixtiw	_	_	_	_	_	_	_	_
 7	o	o	AUX	_	_	8	aux	8:aux	Orig=owaltlajtlachixtiw|Gloss=vino.buscando|NormalizedForm=o|NormalizedLemma=_
-8	waltlajtlachixtiw	waltlajtlachiya	VERB	_	_	6	parataxis	6:parataxis	NormalizedForm=waltlahtlachixtiw|NormalizedLemma=waltlahtlachiya
+8	waltlajtlachixtiw	waltlajtlachiya	VERB	_	Movement=Ven|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Past	6	parataxis	6:parataxis	NormalizedForm=waltlahtlachixtiw|NormalizedLemma=waltlahtlachiya
 9	wan	wan	CCONJ	_	_	11	cc	11:cc	Orig=wan|Gloss=y|NormalizedForm=wan|NormalizedLemma=wan
 10-11	oejkok	_	_	_	_	_	_	_	_
 10	o	o	AUX	_	_	11	aux	11:aux	Orig=oejkok|Gloss=llegó|NormalizedForm=o|NormalizedLemma=o
@@ -13522,7 +13522,7 @@
 14	ohcon	ohcón	ADV	_	_	17	advmod	17:advmod	NormalizedForm=ohkon|NormalizedLemma=ohkón
 15	para	para	ADP	_	Foreign=Yes	17	mark	17:mark	NormalizedForm=para|NormalizedLemma=para
 16	amo	amo	ADV	_	Polarity=Neg	17	advmod	17:advmod	NormalizedForm=amo|NormalizedLemma=amo
-17	motlaachoponiliz	tlaachoponili	VERB	_	_	10	advcl	10:advcl	SpaceAfter=No|NormalizedForm=motlaachoponilis|NormalizedLemma=tlaachoponili
+17	motlaachoponiliz	tlaachoponili	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Fut|VerbForm=Fin	10	advcl	10:advcl	SpaceAfter=No|NormalizedForm=motlaachoponilis|NormalizedLemma=tlaachoponili
 18	.	.	PUNCT	_	_	17	punct	17:punct	NormalizedForm=.|NormalizedLemma=.
 
 # sent_id = tiquitini:16
@@ -13541,7 +13541,7 @@
 7	ohcon	ohcón	ADV	_	_	9	advmod	9:advmod	NormalizedForm=ohkon|NormalizedLemma=ohkón
 8-9	ocmoilhuih	_	_	_	_	_	_	_	SpaceAfter=No
 8	o	o	AUX	_	_	9	aux	9:aux	NormalizedForm=o|NormalizedLemma=o
-9	cmoilhuih	ilhuia	VERB	_	_	5	parataxis	5:parataxis	NormalizedForm=kmoilwih|NormalizedLemma=ilwia
+9	cmoilhuih	ilhuia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Past	5	parataxis	5:parataxis	NormalizedForm=kmoilwih|NormalizedLemma=ilwia
 10	.	.	PUNCT	_	_	9	punct	9:punct	NormalizedForm=.|NormalizedLemma=.
 
 # sent_id = tiquitini:17
@@ -13755,7 +13755,7 @@
 # orthography = traditional_h-c-u-z
 # labels = partial
 1	Cimi	cimi	ADV	_	_	2	advmod	2:advmod	NormalizedForm=simi|NormalizedLemma=simi
-2	yociyau	ciyahui	VERB	_	_	0	root	0:root	SpaceAfter=No|NormalizedForm=yociyau|NormalizedLemma=siyawi
+2	yociyau	ciyahui	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	0:root	SpaceAfter=No|NormalizedForm=yociyau|NormalizedLemma=siyawi
 3	,	,	PUNCT	_	_	6	punct	6:punct	NormalizedForm=,|NormalizedLemma=,
 4	huan	huan	CCONJ	_	_	6	cc	6:cc	NormalizedForm=wan|NormalizedLemma=wan
 5	ya	ya	ADV	_	_	6	advmod	6:advmod	NormalizedForm=ya|NormalizedLemma=ya
@@ -13848,7 +13848,7 @@
 7	cimi	cimi	ADV	_	_	9	advmod	9:advmod	NormalizedForm=simi|NormalizedLemma=simi
 8-9	ocmotetzahui	_	_	_	_	_	_	_	SpaceAfter=No
 8	o	o	AUX	_	_	9	aux	9:aux	NormalizedForm=o|NormalizedLemma=o
-9	cmotetzahui	motetzahuia	VERB	_	_	0	root	0:root	NormalizedForm=kmotetsawi|NormalizedLemma=motetsawia
+9	cmotetzahui	motetzahuia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Past	0	root	0:root	NormalizedForm=kmotetsawi|NormalizedLemma=motetsawia
 10	.	.	PUNCT	_	_	9	punct	9:punct	NormalizedForm=.|NormalizedLemma=.
 
 # sent_id = tiquitini:31
@@ -14019,7 +14019,7 @@
 1-2	Opeuqueh	_	_	_	_	_	_	_	_
 1	O	o	AUX	_	_	2	aux	2:aux	NormalizedForm=o|NormalizedLemma=o
 2	peuqueh	peua	VERB	_	Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	0:root	NormalizedForm=peukeh|NormalizedLemma=pewa
-3	icmotetzauiah	motetzauia	VERB	_	_	2	xcomp	2:xcomp	NormalizedForm=ikmotetsawiah|NormalizedLemma=motetsawia
+3	icmotetzauiah	motetzauia	VERB	_	Number[subj]=Plur|Person[subj]=3|Subcat=Tran|Tense=Pres	2	xcomp	2:xcomp	NormalizedForm=ikmotetsawiah|NormalizedLemma=motetsawia
 4	tleca	tleca	SCONJ	_	_	6	mark	6:mark	NormalizedForm=tleka|NormalizedLemma=tleka
 5	amo	amo	ADV	_	Polarity=Neg	6	advmod	6:advmod	NormalizedForm=amo|NormalizedLemma=amo
 6	molinia	molinia	VERB	_	Number[subj]=Sing|Person[subj]=3|Subcat=Intr|Tense=Pres	2	advcl	2:advcl	NormalizedForm=molinia|NormalizedLemma=molinia
@@ -14305,7 +14305,7 @@
 5	!	!	PUNCT	_	_	4	punct	4:punct	SpaceAfter=No|NormalizedForm=!|NormalizedLemma=!
 6	,	,	PUNCT	_	_	8	punct	8:punct	NormalizedForm=,|NormalizedLemma=,
 7	neh	nehuatl	PRON	_	Number=Sing|Person=1|PronType=Prs	8	nsubj	8:nsubj	NormalizedForm=neh|NormalizedLemma=newatl
-8	intlachcuas	tlachcua	VERB	_	_	4	parataxis	4:parataxis	NormalizedForm=intlachkwas|NormalizedLemma=tlachkwa
+8	intlachcuas	tlachcua	VERB	_	Number[subj]=Sing|Person[subj]=1|Subcat=Intr|Tense=Fut	4	parataxis	4:parataxis	NormalizedForm=intlachkwas|NormalizedLemma=tlachkwa
 9	para	para	SCONJ	_	_	10	mark	10:mark	NormalizedForm=para|NormalizedLemma=para
 10	ittalpachosqueh	tlalpachoa	VERB	_	Typo=Yes	8	advcl	8:advcl	CorrectForm=ittlalpachosqueh|NormalizedForm=ittalpachoskeh|NormalizedLemma=tlalpachoa
 11	—	—	PUNCT	_	_	13	punct	13:punct	NormalizedForm=—|NormalizedLemma=—
@@ -14636,7 +14636,7 @@
 8	uan	uan	CCONJ	_	_	10	cc	10:cc	NormalizedForm=wan|NormalizedLemma=wan
 9-10	onquihyouih	_	_	_	_	_	_	_	_
 9	o	o	AUX	_	_	10	aux	10:aux	NormalizedForm=o|NormalizedLemma=o
-10	nquihyouih	ihyouia	VERB	_	_	7	conj	7:conj	_|NormalizedForm=nkihyowih|NormalizedLemma=ihyowia
+10	nquihyouih	ihyouia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=1|Subcat=Tran|Tense=Past	7	conj	7:conj	_|NormalizedForm=nkihyowih|NormalizedLemma=ihyowia
 11	por	por	ADP	_	Foreign=Yes	12	mark	12:mark	NormalizedForm=por|NormalizedLemma=por
 12	namehuan	namehuan	PRON	_	_	10	obl	10:obl	SpaceAfter=No|NormalizedForm=namewan|NormalizedLemma=namewan
 13	.	.	PUNCT	_	_	10	punct	10:punct	NormalizedForm=.|NormalizedLemma=.
@@ -14922,7 +14922,7 @@
 2-3	opeuayah	_	_	_	_	_	_	_	_
 2	o	o	AUX	_	_	3	aux	3:aux	NormalizedForm=o|NormalizedLemma=o
 3	peuayah	peua	VERB	_	Aspect=Imp|Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past	0	root	0:root	_|NormalizedForm=pewayah|NormalizedLemma=pewa
-4	tlahmatih	tlahmati	VERB	_	_	3	xcomp	3:xcomp	_|NormalizedForm=tlahmatih|NormalizedLemma=tlahmati
+4	tlahmatih	tlahmati	VERB	_	Number[subj]=Plur|Person[subj]=1|Subcat=Tran|Tense=Pres	3	xcomp	3:xcomp	_|NormalizedForm=tlahmatih|NormalizedLemma=tlahmati
 5	ica	ca	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	4	obl	4:obl	NormalizedForm=ika|NormalizedLemma=ka
 6	non	non	DET	_	_	8	det	8:det	NormalizedForm=non|NormalizedLemma=non
 7	se	se	DET	_	_	8	det	8:det	NormalizedForm=se|NormalizedLemma=se
@@ -15110,7 +15110,7 @@
 17	-	-	PUNCT	_	_	20	punct	20:punct	NormalizedForm=-|NormalizedLemma=-
 18	Nic	nic	SCONJ	_	_	20	mark	20:mark	_|NormalizedForm=nik|NormalizedLemma=nik
 19	amo	amo	ADV	_	Polarity=Neg	20	advmod	20:advmod	NormalizedForm=amo|NormalizedLemma=amo
-20	nactlacamatih	tlacamati	VERB	_	_	28	advcl	28:advcl	SpaceAfter=No|NormalizedForm=naktlakamatih|NormalizedLemma=tlakamati
+20	nactlacamatih	tlacamati	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=2|Subcat=Tran|Tense=Pres	28	advcl	28:advcl	SpaceAfter=No|NormalizedForm=naktlakamatih|NormalizedLemma=tlakamati
 21	,	,	PUNCT	_	_	20	punct	20:punct	NormalizedForm=,|NormalizedLemma=,
 22	desde	desde	ADP	_	Foreign=Yes	23	case	23:case	NormalizedForm=desde|NormalizedLemma=desde
 23	axan	axan	ADV	_	_	28	advmod	28:advmod	NormalizedForm=axan|NormalizedLemma=axan
@@ -15650,7 +15650,7 @@
 17	chikawi	chikawi	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	14	conj	14:conj	SpaceAfter=No|NormalizedForm=chikawi|NormalizedLemma=chikawi
 18	,	,	PUNCT	_	_	20	punct	20:punct	NormalizedForm=,|NormalizedLemma=,
 19	ijkuakon	ijkaukon	ADV	_	_	20	advmod	20:advmod	NormalizedForm=ihkwakon|NormalizedLemma=ihkaukon
-20	ikxitlasowaj	xitlasowa	VERB	_	_	17	conj	17:conj	NormalizedForm=ikxitlasowah|NormalizedLemma=xitlasowa
+20	ikxitlasowaj	xitlasowa	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	17	conj	17:conj	NormalizedForm=ikxitlasowah|NormalizedLemma=xitlasowa
 21	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.|NormalizedLemma=.
 
 # sent_id = tleka-kimixmatij-in-masewalten-de-otomi:23
@@ -15997,7 +15997,7 @@
 7	,	,	PUNCT	_	_	6	punct	6:punct	NormalizedForm=,|NormalizedLemma=,
 8-9	octiquitih	_	_	_	_	_	_	_	_
 8	o	o	AUX	_	_	9	aux	9:aux	NormalizedForm=o|NormalizedLemma=o
-9	ctiquitih	tiquiti	VERB	_	_	0	root	0:root	NormalizedForm=ktikitih|NormalizedLemma=tikiti
+9	ctiquitih	tiquiti	VERB	_	Number[dat]=Sing|Number[subj]=Sing|Person[dat]=3|Person[subj]=3|Subcat=Tran|Tense=Past	0	root	0:root	NormalizedForm=ktikitih|NormalizedLemma=tikiti
 10-11	nixuiu	_	_	_	_	_	_	_	_
 10	n	in	DET	_	_	11	det	11:det	NormalizedForm=n|NormalizedLemma=in
 11	ixuiu	ixui	NOUN	_	Number[psor]=Sing|Person[psor]=3	9	obj	9:obj	NormalizedForm=ixuiu|NormalizedLemma=ixwi
@@ -16082,7 +16082,7 @@
 14	:	:	PUNCT	_	_	17	punct	17:punct	NormalizedForm=:|NormalizedLemma=:
 15	—	—	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No|NormalizedForm=—|NormalizedLemma=—
 16	!	!	PUNCT	_	_	17	punct	17:punct	SpaceAfter=No|NormalizedForm=!|NormalizedLemma=!
-17	Anda	andar	VERB	_	_	13	parataxis	13:parataxis	NormalizedForm=Anda|NormalizedLemma=andar
+17	Anda	andar	VERB	_	Foreign=Yes	13	parataxis	13:parataxis	NormalizedForm=Anda|NormalizedLemma=andar
 18	teh	teh	PRON	_	Number=Sing|Person=2|PronType=Prs	17	vocative	17:vocative	SpaceAfter=No|NormalizedForm=teh|NormalizedLemma=teh
 19	,	,	PUNCT	_	_	20	punct	20:punct	NormalizedForm=,|NormalizedLemma=,
 20	ixmeua	meua	VERB	_	Mood=Opt|Number[subj]=Sing|Person[subj]=2|Reflex=Yes|Subcat=Tran	17	conj	17:conj	SpaceAfter=No|NormalizedForm=ixmewa|NormalizedLemma=mewa
@@ -16287,7 +16287,7 @@
 # text[spa] = Y va pasando a su lado, no se lo esperaba cuando el burro lo mordió, y lo tiró al suelo.
 # labels = partial
 1	Uan	uan	CCONJ	_	_	2	cc	2:cc	NormalizedForm=wan|NormalizedLemma=wan
-2	yapahpanotiu	pahpanoa	VERB	_	_	0	root	0:root	NormalizedForm=yapahpanotiu|NormalizedLemma=_
+2	yapahpanotiu	pahpanoa	VERB	_	Movement=And|Number[subj]=Sing|Person[subj]=3|Subcat=Intr	0	root	0:root	NormalizedForm=yapahpanotiu|NormalizedLemma=_
 3	inacasco	nacasco	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Person[psor]=3	2	obl	2:obl	SpaceAfter=No|NormalizedForm=inakasko|NormalizedLemma=nakasko
 4	,	,	PUNCT	_	_	6	punct	6:punct	NormalizedForm=,|NormalizedLemma=,
 5	amo	amo	ADV	_	Polarity=Neg	6	advmod	6:advmod	NormalizedForm=amo|NormalizedLemma=amo
@@ -16302,7 +16302,7 @@
 13	uan	uan	CCONJ	_	_	15	cc	15:cc	NormalizedForm=wan|NormalizedLemma=wan
 14-15	octlatiuih	_	_	_	_	_	_	_	_
 14	o	o	AUX	_	_	15	aux	15:aux	NormalizedForm=o|NormalizedLemma=o
-15	ctlatiuih	tlatiuia	VERB	_	_	11	conj	11:conj	NormalizedForm=ktlatiwih|NormalizedLemma=tlatiwia
+15	ctlatiuih	tlatiuia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Past	11	conj	11:conj	NormalizedForm=ktlatiwih|NormalizedLemma=tlatiwia
 16	tlalpan	tlalpan	ADV	_	_	15	advmod	15:advmod	SpaceAfter=No|NormalizedForm=tlalpan|NormalizedLemma=tlalpan
 17	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.|NormalizedLemma=.
 
@@ -16349,46 +16349,48 @@
 1	Yehuan	yehuan	PRON	_	Number=Plur|Person=3|PronType=Prs	2	nsubj	2:nsubj	NormalizedForm=yewan|NormalizedLemma=yewan
 2	iccaquih	caqui	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	0	root	0:root	NormalizedForm=ikkakih|NormalizedLemma=kaki
 3	uan	uan	CCONJ	_	_	4	cc	4:cc	NormalizedForm=wan|NormalizedLemma=wan
-4	melacatzohtiquisah	melacatzoa	VERB	_	_	2	conj	2:conj	NormalizedForm=melakatsohtikisah|NormalizedLemma=_
-5	uan	uan	CCONJ	_	_	7	cc	7:cc	NormalizedForm=wan|NormalizedLemma=wan
-6-7	oquistiquisqueh	_	_	_	_	_	_	_	_
-6	o	o	AUX	_	_	7	aux	7:aux	NormalizedForm=o|NormalizedLemma=o
-7	quistiquisqueh	quisa	VERB	_	Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past	4	conj	4:conj	NormalizedForm=kistikiskeh|NormalizedLemma=kisa
-8	quiyauac	quiyauac	ADV	_	_	7	advmod	7:advmod	SpaceAfter=No|NormalizedForm=kiyawak|NormalizedLemma=kiyawak
-9	,	,	PUNCT	_	_	12	punct	12:punct	NormalizedForm=,|NormalizedLemma=,
-10	cauitz	cauitz	ADV	_	_	12	advmod	12:advmod	NormalizedForm=kawits|NormalizedLemma=kawits
-11	oc	oc	ADV	_	_	12	advmod	12:advmod	NormalizedForm=ok|NormalizedLemma=ok
-12	icpaleuisqueh	paleuia	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	7	conj	7:conj	SpaceAfter=No|NormalizedForm=ikpalewiskeh|NormalizedLemma=palewia
-13	,	,	PUNCT	_	_	18	punct	18:punct	NormalizedForm=,|NormalizedLemma=,
-14	yeh	yeh	PRON	_	Number=Sing|Person=3|PronType=Prs	18	nsubj	18:nsubj	NormalizedForm=yeh|NormalizedLemma=yeh
-15	in	in	DET	_	_	16	det	16:det	NormalizedForm=in|NormalizedLemma=in
-16	burro	burro	NOUN	_	Foreign=Yes|Gender=Masc	14	appos	14:appos	NormalizedForm=burro|NormalizedLemma=burro
-17	ompa	ompa	ADV	_	_	18	advmod	18:advmod	NormalizedForm=ompa|NormalizedLemma=ompa
-18-19	icmihmilohtinimi	_	_	_	_	_	_	_	_
-18	icmihmilohti	mimiloa	VERB	_	_	12	conj	12:conj	NormalizedForm=ikmihmilohtinimi|NormalizedLemma=_
-19	nimi	_	AUX	_	_	18	aux	18:aux	_
-20	in	in	DET	_	_	21	det	21:det	NormalizedForm=in|NormalizedLemma=in
-21	Lencho	lencho	PROPN	_	_	18	obj	18:obj	SpaceAfter=No|NormalizedForm=lencho|NormalizedLemma=lencho
-22	,	,	PUNCT	_	_	26	punct	26:punct	NormalizedForm=,|NormalizedLemma=,
-23	cansaso	cansaso	ADV	_	_	26	advmod	26:advmod	NormalizedForm=kansaso|NormalizedLemma=kansaso
-24-26	yoctihtixo	_	_	_	_	_	_	_	SpaceAfter=No
-24	y	ya	ADV	_	_	26	advmod	26:advmod	NormalizedForm=y|NormalizedLemma=ya
-25	o	o	AUX	_	_	26	aux	26:aux	NormalizedForm=o|NormalizedLemma=o
-26	ctihtixo	_	VERB	_	_	18	conj	18:conj	NormalizedForm=ktihtixo|NormalizedLemma=_
-27	,	,	PUNCT	_	_	28	punct	28:punct	NormalizedForm=,|NormalizedLemma=,
-28	itich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Number[subj]=Plur|Person[psor]=3|Person[subj]=1	26	obl	26:obl	NormalizedForm=itich|NormalizedLemma=tich
-29-30	nima	_	_	_	_	_	_	_	SpaceAfter=No
-29	n	in	DET	_	_	30	det	30:det	NormalizedForm=n|NormalizedLemma=in
-30	ima	ma	NOUN	_	Number=Plur|Number[psor]=Plur|Person[psor]=3	28	nmod	28:nmod	NormalizedForm=ima|NormalizedLemma=ma
-31	,	,	PUNCT	_	_	32	punct	32:punct	NormalizedForm=,|NormalizedLemma=,
-32	itich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Number[subj]=Plur|Person[psor]=3|Person[subj]=1	28	conj	28:conj	NormalizedForm=itich|NormalizedLemma=tich
-33-34	nipox	_	_	_	_	_	_	_	SpaceAfter=No
-33	n	in	DET	_	_	34	det	34:det	NormalizedForm=n|NormalizedLemma=in
-34	ipox	pox	NOUN	_	Number[psor]=Sing|Person[psor]=3	32	nmod	32:nmod	NormalizedForm=ipox|NormalizedLemma=pox
-35	,	,	PUNCT	_	_	36	punct	36:punct	NormalizedForm=,|NormalizedLemma=,
-36	ic	ic	ADP	_	_	32	conj	32:conj	NormalizedForm=ik|NormalizedLemma=ik
-37	icuixcochco	cuixcochco	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	36	nmod	36:nmod	SpaceAfter=No|NormalizedForm=ikwixkochko|NormalizedLemma=_
-38	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.|NormalizedLemma=.
+4-5	melacatzohtiquisah	_	_	_	_	_	_	_	_
+4	melacatzohti	melacatzoa	VERB	_	_	2	conj	2:conj	NormalizedForm=melakatsohtikisah|NormalizedLemma=_
+5	quisah	_	AUX	_	_	4	aux	4:aux	_
+6	uan	uan	CCONJ	_	_	8	cc	8:cc	NormalizedForm=wan|NormalizedLemma=wan
+7-8	oquistiquisqueh	_	_	_	_	_	_	_	_
+7	o	o	AUX	_	_	8	aux	8:aux	NormalizedForm=o|NormalizedLemma=o
+8	quistiquisqueh	quisa	VERB	_	Number[subj]=Plur|Person[subj]=3|Subcat=Intr|Tense=Past	4	conj	4:conj	NormalizedForm=kistikiskeh|NormalizedLemma=kisa
+9	quiyauac	quiyauac	ADV	_	_	8	advmod	8:advmod	SpaceAfter=No|NormalizedForm=kiyawak|NormalizedLemma=kiyawak
+10	,	,	PUNCT	_	_	13	punct	13:punct	NormalizedForm=,|NormalizedLemma=,
+11	cauitz	cauitz	ADV	_	_	13	advmod	13:advmod	NormalizedForm=kawits|NormalizedLemma=kawits
+12	oc	oc	ADV	_	_	13	advmod	13:advmod	NormalizedForm=ok|NormalizedLemma=ok
+13	icpaleuisqueh	paleuia	VERB	_	Number[obj]=Sing|Number[subj]=Plur|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	8	conj	8:conj	SpaceAfter=No|NormalizedForm=ikpalewiskeh|NormalizedLemma=palewia
+14	,	,	PUNCT	_	_	19	punct	19:punct	NormalizedForm=,|NormalizedLemma=,
+15	yeh	yeh	PRON	_	Number=Sing|Person=3|PronType=Prs	19	nsubj	19:nsubj	NormalizedForm=yeh|NormalizedLemma=yeh
+16	in	in	DET	_	_	17	det	17:det	NormalizedForm=in|NormalizedLemma=in
+17	burro	burro	NOUN	_	Foreign=Yes|Gender=Masc	15	appos	15:appos	NormalizedForm=burro|NormalizedLemma=burro
+18	ompa	ompa	ADV	_	_	19	advmod	19:advmod	NormalizedForm=ompa|NormalizedLemma=ompa
+19-20	icmihmilohtinimi	_	_	_	_	_	_	_	_
+19	icmihmilohti	mimiloa	VERB	_	_	13	conj	13:conj	NormalizedForm=ikmihmilohtinimi|NormalizedLemma=_
+20	nimi	_	AUX	_	_	19	aux	19:aux	_
+21	in	in	DET	_	_	22	det	22:det	NormalizedForm=in|NormalizedLemma=in
+22	Lencho	lencho	PROPN	_	_	19	obj	19:obj	SpaceAfter=No|NormalizedForm=lencho|NormalizedLemma=lencho
+23	,	,	PUNCT	_	_	27	punct	27:punct	NormalizedForm=,|NormalizedLemma=,
+24	cansaso	cansaso	ADV	_	_	27	advmod	27:advmod	NormalizedForm=kansaso|NormalizedLemma=kansaso
+25-27	yoctihtixo	_	_	_	_	_	_	_	SpaceAfter=No
+25	y	ya	ADV	_	_	27	advmod	27:advmod	NormalizedForm=y|NormalizedLemma=ya
+26	o	o	AUX	_	_	27	aux	27:aux	NormalizedForm=o|NormalizedLemma=o
+27	ctihtixo	_	VERB	_	_	19	conj	19:conj	NormalizedForm=ktihtixo|NormalizedLemma=_
+28	,	,	PUNCT	_	_	29	punct	29:punct	NormalizedForm=,|NormalizedLemma=,
+29	itich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Number[subj]=Plur|Person[psor]=3|Person[subj]=1	27	obl	27:obl	NormalizedForm=itich|NormalizedLemma=tich
+30-31	nima	_	_	_	_	_	_	_	SpaceAfter=No
+30	n	in	DET	_	_	31	det	31:det	NormalizedForm=n|NormalizedLemma=in
+31	ima	ma	NOUN	_	Number=Plur|Number[psor]=Plur|Person[psor]=3	29	nmod	29:nmod	NormalizedForm=ima|NormalizedLemma=ma
+32	,	,	PUNCT	_	_	33	punct	33:punct	NormalizedForm=,|NormalizedLemma=,
+33	itich	tich	NOUN	_	NounType=Relat|Number=Sing|Number[psor]=Sing|Number[subj]=Plur|Person[psor]=3|Person[subj]=1	29	conj	29:conj	NormalizedForm=itich|NormalizedLemma=tich
+34-35	nipox	_	_	_	_	_	_	_	SpaceAfter=No
+34	n	in	DET	_	_	35	det	35:det	NormalizedForm=n|NormalizedLemma=in
+35	ipox	pox	NOUN	_	Number[psor]=Sing|Person[psor]=3	33	nmod	33:nmod	NormalizedForm=ipox|NormalizedLemma=pox
+36	,	,	PUNCT	_	_	37	punct	37:punct	NormalizedForm=,|NormalizedLemma=,
+37	ic	ic	ADP	_	_	33	conj	33:conj	NormalizedForm=ik|NormalizedLemma=ik
+38	icuixcochco	cuixcochco	NOUN	_	NounType=Relat|Number[psor]=Sing|Person[psor]=3	37	nmod	37:nmod	SpaceAfter=No|NormalizedForm=ikwixkochko|NormalizedLemma=_
+39	.	.	PUNCT	_	_	2	punct	2:punct	NormalizedForm=.|NormalizedLemma=.
 
 # sent_id = tlen-ocpanoc-in-lencho:26
 # text = ¡Amati quenih Dios Yehuatzin ocmopaleuilih!
@@ -16401,7 +16403,7 @@
 5	Yehuatzin	yehuatzin	PROPN	_	_	4	appos	4:appos	NormalizedForm=yewatsin|NormalizedLemma=yewatsin
 6-7	ocmopaleuilih	_	_	_	_	_	_	_	SpaceAfter=No
 6	o	o	AUX	_	_	7	aux	7:aux	NormalizedForm=o|NormalizedLemma=o
-7	cmopaleuilih	palehuia	VERB	_	_	0	root	0:root	NormalizedForm=kmopalewilih|NormalizedLemma=palewia
+7	cmopaleuilih	palehuia	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Polite=Form|Subcat=Tran|Tense=Past	0	root	0:root	NormalizedForm=kmopalewilih|NormalizedLemma=palewia
 8	!	!	PUNCT	_	_	7	punct	7:punct	NormalizedForm=!|NormalizedLemma=!
 
 # sent_id = tlen-ocpanoc-in-lencho:27
@@ -16624,7 +16626,7 @@
 18	ictlamacatiueh	tlamaca	VERB	_	Movement=And|Number[dat]=Sing|Number[subj]=Plur|Person[dat]=3|Person[subj]=3|Subcat=Tran	20	advcl	20:advcl	NormalizedForm=iktlamakatiweh|NormalizedLemma=_
 19	yeh	yeh	PRON	_	Number=Sing|Person=3|PronType=Prs	20	nsubj	20:nsubj	NormalizedForm=yeh|NormalizedLemma=yeh
 20	icniqui	niqui	VERB	_	Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Pres	9	advcl	9:advcl	NormalizedForm=ikniki|NormalizedLemma=niki
-21	quiualtihtixos	tihtixoa	VERB	_	_	20	xcomp	20:xcomp	SpaceAfter=No|NormalizedForm=kiwaltihtixos|NormalizedLemma=_
+21	quiualtihtixos	tihtixoa	VERB	_	Movement=Ven|Number[obj]=Sing|Number[subj]=Sing|Person[obj]=3|Person[subj]=3|Subcat=Tran|Tense=Fut	20	xcomp	20:xcomp	SpaceAfter=No|NormalizedForm=kiwaltihtixos|NormalizedLemma=_
 22	,	,	PUNCT	_	_	27	punct	27:punct	NormalizedForm=,|NormalizedLemma=,
 23	dion	dion	ADV	_	_	27	advmod	27:advmod	NormalizedForm=dion|NormalizedLemma=dion
 24	amo	amo	ADV	_	Polarity=Neg	27	advmod	27:advmod	NormalizedForm=amo|NormalizedLemma=amo
@@ -16857,7 +16859,7 @@
 6	ompa	ompa	ADV	_	_	8	advcl	8:advcl	NormalizedForm=ompa|NormalizedLemma=ompa
 7-8	otlacamparohtoh	_	_	_	_	_	_	_	_
 7	o	o	AUX	_	_	8	aux	8:aux	NormalizedForm=o|NormalizedLemma=o
-8	tlacamparohtoh	tlacamparoa	VERB	_	_	5	conj	5:conj	NormalizedForm=tlakamparohtoh|NormalizedLemma=tlakamparoa
+8	tlacamparohtoh	tlacamparoa	VERB	_	Movement=And|Number[subj]=Plur|Person[subj]=1|Subcat=Tran|Tense=Past	5	conj	5:conj	NormalizedForm=tlakamparohtoh|NormalizedLemma=tlakamparoa
 9	wan	wan	CCONJ	_	_	12	cc	12:cc	NormalizedForm=wan|NormalizedLemma=wan
 10	de	de	ADP	_	Foreign=Yes	11	case	11:case	NormalizedForm=de|NormalizedLemma=de
 11	ompa	ompa	ADV	_	_	12	advmod	12:advmod	NormalizedForm=ompa|NormalizedLemma=ompa
@@ -17100,7 +17102,7 @@
 15	akmo	akmo	ADV	_	_	17	advmod	17:advmod	NormalizedForm=akmo|NormalizedLemma=akmo
 16-17	owalmokopakeh	_	_	_	_	_	_	_	SpaceAfter=No
 16	o	o	AUX	_	_	17	aux	17:aux	NormalizedForm=o|NormalizedLemma=o
-17	walmokopakeh	walmokopaki	VERB	_	_	9	conj	9:conj	NormalizedForm=walmokopakeh|NormalizedLemma=walmopaki
+17	walmokopakeh	walmokopaki	VERB	_	Movement=Ven|Number[subj]=Sing|Person[subj]=3|Subcat=Tran|Tense=Fut	9	conj	9:conj	NormalizedForm=walmokopakeh|NormalizedLemma=walmopaki
 18	.	.	PUNCT	_	_	9	punct	9:punct	NormalizedForm=.|NormalizedLemma=.
 
 # sent_id = victoriano3:13
