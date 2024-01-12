@@ -10768,7 +10768,7 @@
 15	kewtok	kewtok	ADV	_	_	18	advmod	18:advmod	Orig=kewtok|NormalizedForm=kewtok|NormalizedLemma=kewtok
 16	amo	amo	ADV	_	Polarity=Neg	18	advmod	18:advmod	Orig=amo|NormalizedForm=amo|NormalizedLemma=amo
 17	ocachi	ocachi	ADV	_	_	18	advmod	18:advmod	Orig=ocachi|NormalizedForm=okachi|NormalizedLemma=okachi
-18	namechontlakentis	tlanentia	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=2|Person[subj]=1|Polite=Form|Subcat=Tran|Tense=Fut|VerbForm=Fin	0	root	0:root	Orig=namechontlakentis|NormalizedForm=namechontlakentis|NormalizedLemma=tlanentia
+18	namechontlakentis	tlanentia	VERB	_	Number[obj]=Plur|Number[subj]=Sing|Person[obj]=2|Person[subj]=1|Polite=Form|Subcat=Tran|Tense=Fut	0	root	0:root	Orig=namechontlakentis|NormalizedForm=namechontlakentis|NormalizedLemma=tlanentia
 19	namejwantzitzin	namejwan	PRON	_	Degree=Dim	18	nsubj	18:nsubj	Orig=namejwantzitzin|SpaceAfter=No|NormalizedForm=namehwantsitsin|NormalizedLemma=namehwan
 20	!	!	PUNCT	_	_	18	punct	18:punct	Orig=!|NormalizedForm=!|NormalizedLemma=!
 
@@ -11194,7 +11194,7 @@
 5	ipan	pan	NOUN	_	Foreign=Yes|Number=Sing|Number[psor]=Sing|Person[psor]=3	7	obl	7:obl	Orig=ipan|NormalizedForm=ipan|NormalizedLemma=pan
 6-7	oajkotzikwinaya	_	_	_	_	_	_	_	SpaceAfter=No
 6	o	o	AUX	_	_	7	aux	7:aux	Orig=oajkotzikwinaya|NormalizedForm=o|NormalizedLemma=o
-7	ajkotzikwinaya	ajkotzikwini	VERB	_	Aspect=Imp|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Past|VerbForm=Fin	0	root	0:root	NormalizedForm=ahkotsikwinaya|NormalizedLemma=ahkotsikwini
+7	ajkotzikwinaya	ajkotzikwini	VERB	_	Aspect=Imp|Number[subj]=Sing|Person[subj]=2|Subcat=Intr|Tense=Past	0	root	0:root	NormalizedForm=ahkotsikwinaya|NormalizedLemma=ahkotsikwini
 8	.	.	PUNCT	_	_	7	punct	7:punct	Orig=.|NormalizedForm=.|NormalizedLemma=.
 
 # sent_id = tenango:104:1
