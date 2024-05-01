@@ -8076,7 +8076,7 @@
 5	,	,	PUNCT	_	_	8	punct	8:punct	Orig=,|Gloss=,|Morf=,|NormalizedForm=,|NormalizedLemma=,
 6	wan	wan	CCONJ	_	_	8	cc	8:cc	Orig=wan|Gloss=and|Morf=wan|NormalizedForm=wan|NormalizedLemma=wan
 7	nikah	nikah	ADV	_	_	8	advmod	8:advmod	Orig=nikah|Gloss=here|Morf=nikān|NormalizedForm=nikah|NormalizedLemma=nikah
-8	monamiktiskeh	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Fut|VerbForm=Fin	2	conj	2:conj	Gloss=3S-REFL-marry-FUT-PL.S|Morf=Ø-mo-nāmiktı̄-s-keh|Orig=monāmiktı̄skeh,|SpaceAfter=No|NormalizedForm=monamiktiskeh|NormalizedLemma=monamiktia
+8	monamiktiskeh	monamiktia	VERB	_	Mood=Ind|Number[subj]=Plur|Person[subj]=3|Reflex=Yes|Subcat=Tran|Tense=Fut|VerbForm=Fin	2	conj	2:conj	Gloss=3S-REFL-marry-FUT-PL.S|Morf=Ø-mo-nāmiktı̄-s-keh|Orig=monāmiktı̄skeh,|SpaceAfter=No|NormalizedForm=monamiktiskeh|NormalizedLemma=monamiktia
 9	,	,	PUNCT	_	_	12	punct	12:punct	Orig=,|Gloss=,|Morf=,|NormalizedForm=,|NormalizedLemma=,
 10	wan	wan	CCONJ	_	_	12	cc	12:cc	Orig=wan|Gloss=and|Morf=wan|NormalizedForm=wan|NormalizedLemma=wan
 11	nikah	nikah	ADV	_	_	12	advmod	12:advmod	Orig=nikah|Gloss=here|Morf=nikān|NormalizedForm=nikah|NormalizedLemma=nikah
